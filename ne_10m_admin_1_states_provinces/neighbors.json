@@ -1,0 +1,7042 @@
+{
+  "Entre Ríos": [
+    "Corrientes",
+    "Santa Fe",
+    "Buenos Aires",
+    "Salto",
+    "Tacuarembó"
+  ],
+  "Kalimantan Timur": [
+    "Sabah",
+    "Kalimantan Barat",
+    "Sarawak",
+    "Kalimantan Tengah"
+  ],
+  "Sabah": [
+    "Kalimantan Timur",
+    "Sarawak"
+  ],
+  "La Paz": [
+    "Oruro",
+    "Madre de Dios",
+    "Pando",
+    "El Beni",
+    "Puno",
+    "Cochabamba",
+    "Tacna"
+  ],
+  "Oruro": [
+    "La Paz",
+    "Potosí",
+    "Cochabamba",
+    "Tacna"
+  ],
+  "Potosí": [
+    "Oruro",
+    "Antofagasta",
+    "Salta",
+    "Jujuy",
+    "Chuquisaca",
+    "Cochabamba",
+    "Tarija",
+    "Tacna"
+  ],
+  "Antofagasta": [
+    "Potosí",
+    "Salta",
+    "Jujuy",
+    "Atacama",
+    "Catamarca",
+    "Tacna"
+  ],
+  "Salta": [
+    "Potosí",
+    "Antofagasta",
+    "Jujuy",
+    "Boquerón",
+    "Formosa",
+    "Chaco",
+    "Santiago del Estero",
+    "Catamarca",
+    "Tarija"
+  ],
+  "Jujuy": [
+    "Potosí",
+    "Antofagasta",
+    "Salta",
+    "Tarija"
+  ],
+  "Xinjiang": [
+    "Xizang",
+    "East Kazakhstan",
+    "Bayan-Ölgiy",
+    "Hovd",
+    "Govi-Altay",
+    "Gansu",
+    "Gorno-Altay",
+    "Ysyk-Köl",
+    "Naryn",
+    "Gorno-Badakhshan",
+    "Northern Areas",
+    "Badakhshan",
+    "Qinghai",
+    "Almaty",
+    "Ladakh",
+    "Jalal-Abad"
+  ],
+  "Xizang": [
+    "Xinjiang",
+    "Arunachal Pradesh",
+    "Yunnan",
+    "Uttarakhand",
+    "Kachin",
+    "Himachal Pradesh",
+    "Sichuan",
+    "Qinghai",
+    "Ladakh",
+    "Mongar",
+    "Bheri",
+    "Lumbini"
+  ],
+  "Southern Nations, Nationalities and Peoples": [
+    "Eastern Equatoria",
+    "Rift Valley",
+    "Jonglei",
+    "Oromiya",
+    "Eastern",
+    "Upper Nile"
+  ],
+  "Eastern Equatoria": [
+    "Southern Nations, Nationalities and Peoples",
+    "Rift Valley",
+    "Jonglei",
+    "Central Equatoria",
+    "Western",
+    "Kibale"
+  ],
+  "Rift Valley": [
+    "Southern Nations, Nationalities and Peoples",
+    "Eastern Equatoria",
+    "Coast",
+    "Eastern",
+    "Kagera",
+    "Tanga",
+    "Manyara",
+    "Western"
+  ],
+  "Mbeya": [
+    "Muchinga",
+    "Northern",
+    "Tabora",
+    "Njombe",
+    "Singida",
+    "Rukwa"
+  ],
+  "Arunachal Pradesh": [
+    "Xizang",
+    "Assam",
+    "Kachin",
+    "Sagaing",
+    "Mongar",
+    "Manipur"
+  ],
+  "Somaliland": [
+    "Bari",
+    "Somali",
+    "Mudug",
+    "Semenawi Keyih Bahri"
+  ],
+  "Bari": [
+    "Somaliland",
+    "Mudug"
+  ],
+  "Guyane française": [
+    "Sipaliwini",
+    "Amapá",
+    "Mahaica-Berbice"
+  ],
+  "Sipaliwini": [
+    "Guyane française",
+    "Pará",
+    "Amapá",
+    "Mahaica-Berbice"
+  ],
+  "Guelmim - Es-Semara": [
+    "Western Sahara",
+    "Laâyoune - Boujdour - Sakia El Hamra",
+    "Tindouf",
+    "Souss - Massa - Draâ"
+  ],
+  "Western Sahara": [
+    "Guelmim - Es-Semara",
+    "Laâyoune - Boujdour - Sakia El Hamra",
+    "Oued el Dahab",
+    "Tiris Zemmour",
+    "Tindouf",
+    "Adrar",
+    "Inchiri"
+  ],
+  "Laâyoune - Boujdour - Sakia El Hamra": [
+    "Guelmim - Es-Semara",
+    "Western Sahara",
+    "Oued el Dahab"
+  ],
+  "Oued el Dahab": [
+    "Western Sahara",
+    "Laâyoune - Boujdour - Sakia El Hamra"
+  ],
+  "Likouala": [
+    "Équateur",
+    "Sangha",
+    "Haut-Ogooué"
+  ],
+  "Équateur": [
+    "Likouala",
+    "Bandundu",
+    "Orientale",
+    "Mbomou",
+    "Kasaï-Occidental",
+    "Kasaï-Oriental",
+    "Ouaka",
+    "Nana-Grébizi",
+    "Sangha",
+    "Haut-Ogooué",
+    "Plateaux"
+  ],
+  "Bandundu": [
+    "Équateur",
+    "Uíge",
+    "Kasaï-Occidental",
+    "Lunda Norte",
+    "Malanje",
+    "Bas-Congo",
+    "Plateaux"
+  ],
+  "Chernihiv": [
+    "Gomel",
+    "Bryansk",
+    "Sumy",
+    "Poltava",
+    "Kiev"
+  ],
+  "Gomel": [
+    "Chernihiv",
+    "Brest",
+    "Rivne",
+    "Zhytomyr",
+    "Mogilev",
+    "Bryansk",
+    "Minsk",
+    "Kiev"
+  ],
+  "Volyn": [
+    "Brest",
+    "Rivne",
+    "Lublin",
+    "L'viv"
+  ],
+  "Brest": [
+    "Gomel",
+    "Volyn",
+    "Rivne",
+    "Grodno",
+    "Podlachian",
+    "Lublin",
+    "Minsk"
+  ],
+  "Rivne": [
+    "Gomel",
+    "Volyn",
+    "Brest",
+    "Zhytomyr",
+    "Khmel'nyts'kyy",
+    "L'viv"
+  ],
+  "Zhytomyr": [
+    "Gomel",
+    "Rivne",
+    "Vinnytsya",
+    "Kiev",
+    "Khmel'nyts'kyy"
+  ],
+  "Karas": [
+    "Northern Cape",
+    "Hardap"
+  ],
+  "Northern Cape": [
+    "Karas",
+    "Free State",
+    "Eastern Cape",
+    "North West",
+    "Kgalagadi",
+    "Hardap",
+    "Western Cape"
+  ],
+  "Homs (Hims)": [
+    "Al-Anbar",
+    "An Nabatiyah",
+    "Ar Raqqah",
+    "Balqa",
+    "Ninawa"
+  ],
+  "East Kazakhstan": [
+    "Xinjiang",
+    "Gorno-Altay",
+    "Pavlodar",
+    "Altay",
+    "Qaraghandy",
+    "Almaty"
+  ],
+  "Vitebsk": [
+    "Grodno",
+    "Pskov",
+    "Smolensk",
+    "Mogilev",
+    "Minsk",
+    "Alytaus",
+    "Panevezio",
+    "Rezeknes"
+  ],
+  "Grodno": [
+    "Brest",
+    "Vitebsk",
+    "Podlachian",
+    "Minsk",
+    "Alytaus"
+  ],
+  "Rio Grande do Sul": [
+    "Corrientes",
+    "Santa Catarina",
+    "Lavalleja",
+    "Salto",
+    "Misiones"
+  ],
+  "Dornod": [
+    "Inner Mongol",
+    "Sühbaatar",
+    "Chita",
+    "Hentiy"
+  ],
+  "Inner Mongol": [
+    "Dornod",
+    "Sühbaatar",
+    "Dornogovi",
+    "Govi-Altay",
+    "Gansu",
+    "Bayanhongor",
+    "Ömnögovi",
+    "Chita",
+    "Heilongjiang",
+    "Jilin",
+    "Liaoning",
+    "Ningxia",
+    "Shaanxi",
+    "Shanxi",
+    "Hebei"
+  ],
+  "Bayan-Ölgiy": [
+    "Xinjiang",
+    "Hovd",
+    "Gorno-Altay",
+    "Tuva",
+    "Uvs"
+  ],
+  "Hovd": [
+    "Xinjiang",
+    "Bayan-Ölgiy",
+    "Govi-Altay",
+    "Uvs",
+    "Dzavhan"
+  ],
+  "Sühbaatar": [
+    "Dornod",
+    "Inner Mongol",
+    "Dornogovi",
+    "Hentiy"
+  ],
+  "Dornogovi": [
+    "Inner Mongol",
+    "Sühbaatar",
+    "Ömnögovi",
+    "Hentiy",
+    "Dundgovi",
+    "Töv"
+  ],
+  "Govi-Altay": [
+    "Xinjiang",
+    "Inner Mongol",
+    "Hovd",
+    "Gansu",
+    "Bayanhongor",
+    "Dzavhan"
+  ],
+  "Gansu": [
+    "Xinjiang",
+    "Inner Mongol",
+    "Govi-Altay",
+    "Sichuan",
+    "Ningxia",
+    "Shaanxi",
+    "Qinghai"
+  ],
+  "Bayanhongor": [
+    "Inner Mongol",
+    "Govi-Altay",
+    "Ömnögovi",
+    "Dzavhan",
+    "Arhangay",
+    "Övörhangay"
+  ],
+  "Ömnögovi": [
+    "Inner Mongol",
+    "Dornogovi",
+    "Bayanhongor",
+    "Dundgovi",
+    "Övörhangay"
+  ],
+  "Gorno-Altay": [
+    "Xinjiang",
+    "East Kazakhstan",
+    "Bayan-Ölgiy",
+    "Tuva",
+    "Altay",
+    "Kemerovo",
+    "Khakass"
+  ],
+  "Bayern": [
+    "Baden-Württemberg",
+    "Kärnten",
+    "Sachsen",
+    "Olomoucký",
+    "Hessen",
+    "Bozen",
+    "Oberösterreich",
+    "Haute-Savoie"
+  ],
+  "Pskov": [
+    "Vitebsk",
+    "Smolensk",
+    "Novgorod",
+    "Tver'",
+    "Leningrad",
+    "Võru",
+    "Ida-Viru",
+    "Jõgeva",
+    "Panevezio",
+    "Rezeknes"
+  ],
+  "Troms": [
+    "Norrbotten",
+    "Nordland",
+    "Lapland",
+    "Finnmark"
+  ],
+  "Norrbotten": [
+    "Troms",
+    "Nordland",
+    "Västerbotten",
+    "Lapland"
+  ],
+  "Nordland": [
+    "Troms",
+    "Norrbotten",
+    "Västerbotten",
+    "Jämtland",
+    "Nord-Trøndelag"
+  ],
+  "Västerbotten": [
+    "Norrbotten",
+    "Nordland",
+    "Jämtland",
+    "Västernorrland"
+  ],
+  "Jämtland": [
+    "Nordland",
+    "Västerbotten",
+    "Nord-Trøndelag",
+    "Sør-Trøndelag",
+    "Hedmark",
+    "Dalarna",
+    "Västernorrland",
+    "Gävleborg"
+  ],
+  "Nord-Trøndelag": [
+    "Nordland",
+    "Jämtland",
+    "Sør-Trøndelag"
+  ],
+  "Sør-Trøndelag": [
+    "Jämtland",
+    "Nord-Trøndelag",
+    "Hedmark",
+    "Møre og Romsdal",
+    "Oppland"
+  ],
+  "Hedmark": [
+    "Jämtland",
+    "Sør-Trøndelag",
+    "Dalarna",
+    "Värmland",
+    "Oppland",
+    "Buskerud"
+  ],
+  "Dalarna": [
+    "Jämtland",
+    "Hedmark",
+    "Värmland",
+    "Gävleborg",
+    "Östergötland",
+    "Västmanland"
+  ],
+  "Värmland": [
+    "Hedmark",
+    "Dalarna",
+    "Västra Götaland",
+    "Buskerud",
+    "Östergötland"
+  ],
+  "Västra Götaland": [
+    "Värmland",
+    "Skåne",
+    "Jönköping",
+    "Buskerud",
+    "Östergötland"
+  ],
+  "Lapland": [
+    "Troms",
+    "Norrbotten",
+    "Finnmark",
+    "Murmansk",
+    "Karelia",
+    "Northern Ostrobothnia"
+  ],
+  "Finnmark": [
+    "Troms",
+    "Lapland",
+    "Murmansk"
+  ],
+  "Dagestan": [
+    "Kalmyk",
+    "Stavropol'",
+    "Hajigabul",
+    "Mtskheta-Mtianeti",
+    "Kakheti",
+    "Xocavənd"
+  ],
+  "Yunnan": [
+    "Xizang",
+    "Kachin",
+    "Shan",
+    "Guangxi",
+    "Sichuan",
+    "Guizhou",
+    "Louang Namtha",
+    "Lào Cai"
+  ],
+  "Ysyk-Köl": [
+    "Xinjiang",
+    "Naryn",
+    "Almaty",
+    "Tashkent"
+  ],
+  "Naryn": [
+    "Xinjiang",
+    "Ysyk-Köl",
+    "Tashkent",
+    "Jalal-Abad"
+  ],
+  "Zhambyl": [
+    "South Kazakhstan",
+    "Qaraghandy",
+    "Almaty",
+    "Tashkent"
+  ],
+  "South Kazakhstan": [
+    "Zhambyl",
+    "Navoi",
+    "Qaraghandy",
+    "Qyzylorda",
+    "Tashkent",
+    "Jizzakh"
+  ],
+  "Roraima": [
+    "Upper Demerara-Berbice",
+    "Pará",
+    "Bolívar",
+    "Amazonas",
+    "Amazonas",
+    "Mahaica-Berbice",
+    "Upper Takutu-Upper Essequibo"
+  ],
+  "Upper Demerara-Berbice": [
+    "Roraima",
+    "Pará",
+    "Mahaica-Berbice"
+  ],
+  "Pará": [
+    "Sipaliwini",
+    "Roraima",
+    "Upper Demerara-Berbice",
+    "Amapá",
+    "Amazonas",
+    "Mato Grosso",
+    "Maranhão",
+    "Tocantins",
+    "Mahaica-Berbice"
+  ],
+  "Madre de Dios": [
+    "La Paz",
+    "Acre",
+    "Ucayali",
+    "Pando",
+    "Puno",
+    "Cusco"
+  ],
+  "Acre": [
+    "Madre de Dios",
+    "Amazonas",
+    "Loreto",
+    "Ucayali",
+    "Pando",
+    "Rondônia"
+  ],
+  "Ghadamis": [
+    "Ouargla",
+    "Illizi",
+    "Ash Shati'",
+    "Mizdah",
+    "Tataouine"
+  ],
+  "Gorno-Badakhshan": [
+    "Xinjiang",
+    "Badakhshan",
+    "Khatlon",
+    "Tadzhikistan Territories",
+    "Jalal-Abad"
+  ],
+  "Muchinga": [
+    "Mbeya",
+    "Eastern",
+    "Katanga",
+    "Northern",
+    "Luapula",
+    "Lilongwe",
+    "Central",
+    "Njombe"
+  ],
+  "Eastern": [
+    "Southern Nations, Nationalities and Peoples",
+    "Rift Valley",
+    "North-Eastern",
+    "Coast",
+    "Oromiya",
+    "Somali"
+  ],
+  "Southern Darfur": [
+    "Haute-Kotto",
+    "Western Bahr el Ghazal",
+    "North Darfur",
+    "Eastern Darfur",
+    "Vakaga"
+  ],
+  "Haute-Kotto": [
+    "Southern Darfur",
+    "Western Bahr el Ghazal",
+    "Haut-Mbomou",
+    "Mbomou",
+    "Bamingui-Bangoran",
+    "Ouaka",
+    "Vakaga"
+  ],
+  "Western Bahr el Ghazal": [
+    "Southern Darfur",
+    "Haute-Kotto",
+    "Haut-Mbomou",
+    "Western Equatoria",
+    "Unity",
+    "Central Equatoria",
+    "Eastern Darfur"
+  ],
+  "Haut-Mbomou": [
+    "Haute-Kotto",
+    "Western Bahr el Ghazal",
+    "Western Equatoria",
+    "Orientale",
+    "Mbomou"
+  ],
+  "Western Equatoria": [
+    "Western Bahr el Ghazal",
+    "Haut-Mbomou",
+    "Orientale",
+    "Unity",
+    "Central Equatoria"
+  ],
+  "Orientale": [
+    "Équateur",
+    "Haut-Mbomou",
+    "Western Equatoria",
+    "Mbomou",
+    "Nord-Kivu",
+    "Kasaï-Oriental",
+    "Maniema",
+    "Central Equatoria",
+    "Kibale"
+  ],
+  "Afar": [
+    "Amhara",
+    "Oromiya",
+    "Somali",
+    "Tigray",
+    "Semenawi Keyih Bahri"
+  ],
+  "Sud-Kivu": [
+    "Katanga",
+    "Nord-Kivu",
+    "Maniema",
+    "Gitega",
+    "Kigoma"
+  ],
+  "Katanga": [
+    "Muchinga",
+    "Sud-Kivu",
+    "Northern",
+    "Moxico",
+    "North-Western",
+    "Kasaï-Occidental",
+    "Lunda Norte",
+    "Lunda Sul",
+    "Luapula",
+    "Kasaï-Oriental",
+    "Maniema",
+    "Central",
+    "Kigoma",
+    "Rukwa"
+  ],
+  "West Azarbaijan": [
+    "East Azarbaijan",
+    "Van",
+    "Agri",
+    "Zanjan",
+    "Arbil",
+    "Diyala",
+    "Xocavənd"
+  ],
+  "Podlachian": [
+    "Brest",
+    "Grodno",
+    "Warmian-Masurian",
+    "Lublin",
+    "Masovian",
+    "Alytaus"
+  ],
+  "Warmian-Masurian": [
+    "Podlachian",
+    "Pomeranian",
+    "Masovian",
+    "Alytaus",
+    "Kauno",
+    "Kuyavian-Pomeranian"
+  ],
+  "Northern": [
+    "Quinara",
+    "Faranah",
+    "Lofa",
+    "Gaoual"
+  ],
+  "Nordrhein-Westfalen": [
+    "Niedersachsen",
+    "Pays-Bas",
+    "Hessen",
+    "Luxembourg",
+    "Belgique"
+  ],
+  "Murmansk": [
+    "Lapland",
+    "Finnmark",
+    "Karelia"
+  ],
+  "Karelia": [
+    "Lapland",
+    "Murmansk",
+    "Northern Ostrobothnia",
+    "Kainuu",
+    "North Karelia",
+    "Arkhangel'sk",
+    "Vologda",
+    "Leningrad",
+    "Päijät-Häme"
+  ],
+  "Northern Ostrobothnia": [
+    "Lapland",
+    "Karelia",
+    "Kainuu",
+    "Northern Savonia",
+    "Central Finland",
+    "Ostrobothnia"
+  ],
+  "Kainuu": [
+    "Karelia",
+    "Northern Ostrobothnia",
+    "North Karelia",
+    "Northern Savonia"
+  ],
+  "North Karelia": [
+    "Karelia",
+    "Kainuu",
+    "Northern Savonia",
+    "Southern Savonia",
+    "Päijät-Häme"
+  ],
+  "Abu Dhabi": [
+    "Ash Sharqiyah",
+    "Al Dhahira"
+  ],
+  "Amapá": [
+    "Guyane française",
+    "Sipaliwini",
+    "Pará"
+  ],
+  "Kayes": [
+    "Hodh el Gharbi",
+    "Koulikoro",
+    "Assaba",
+    "Gaoual",
+    "Central River",
+    "Beyla",
+    "Matam"
+  ],
+  "Niger": [
+    "Nassarawa",
+    "Benue",
+    "Collines",
+    "Alibori",
+    "Zamfara",
+    "Jigawa"
+  ],
+  "North-West": [
+    "Matabeleland North",
+    "Southern",
+    "Otjozondjupa",
+    "Omaheke",
+    "Ghanzi",
+    "Central",
+    "Kavango"
+  ],
+  "Matabeleland North": [
+    "North-West",
+    "Mashonaland West",
+    "Southern",
+    "Midlands",
+    "Central",
+    "Matabeleland South",
+    "Kavango"
+  ],
+  "Northern Areas": [
+    "Xinjiang",
+    "Badakhshan",
+    "K.P.",
+    "Ladakh",
+    "Jammu and Kashmir"
+  ],
+  "West Bengal": [
+    "Assam",
+    "Bihar",
+    "Odisha",
+    "Jharkhand",
+    "Mongar",
+    "Rajshahi",
+    "Lumbini"
+  ],
+  "Assam": [
+    "Arunachal Pradesh",
+    "West Bengal",
+    "Sylhet",
+    "Mongar",
+    "Dhaka",
+    "Rajshahi",
+    "Manipur"
+  ],
+  "Borno": [
+    "Diffa",
+    "Adamawa",
+    "Hadjer-Lamis",
+    "Chari-Baguirmi",
+    "Bauchi"
+  ],
+  "Al-Muthannia": [
+    "Al Hudud ash Shamaliyah",
+    "Ash Sharqiyah",
+    "An-Najaf",
+    "Al-Basrah"
+  ],
+  "Kalimantan Barat": [
+    "Kalimantan Timur",
+    "Sarawak",
+    "Kalimantan Tengah"
+  ],
+  "Timbuktu": [
+    "Adrar",
+    "Gao",
+    "Mopti",
+    "Ségou",
+    "Tiris Zemmour",
+    "Adrar",
+    "Kidal",
+    "Hodh ech Chargui",
+    "Bam"
+  ],
+  "Adrar": [
+    "Western Sahara",
+    "Timbuktu",
+    "Tiris Zemmour",
+    "Hodh ech Chargui",
+    "Tagant",
+    "Trarza",
+    "Inchiri",
+    "Assaba"
+  ],
+  "Badakhshan": [
+    "Xinjiang",
+    "Gorno-Badakhshan",
+    "Northern Areas",
+    "K.P.",
+    "Parwan",
+    "Khatlon",
+    "Balkh"
+  ],
+  "Uttarakhand": [
+    "Xizang",
+    "Himachal Pradesh",
+    "Uttar Pradesh",
+    "Haryana",
+    "Bheri"
+  ],
+  "Boquerón": [
+    "Salta",
+    "Formosa",
+    "Presidente Hayes",
+    "Santa Cruz",
+    "Alto Paraguay",
+    "Chuquisaca",
+    "Tarija"
+  ],
+  "Formosa": [
+    "Salta",
+    "Boquerón",
+    "Presidente Hayes",
+    "Chaco",
+    "San Pedro"
+  ],
+  "Presidente Hayes": [
+    "Boquerón",
+    "Formosa",
+    "Alto Paraguay",
+    "San Pedro"
+  ],
+  "Chaco": [
+    "Salta",
+    "Formosa",
+    "Corrientes",
+    "Santa Fe",
+    "Santiago del Estero",
+    "San Pedro"
+  ],
+  "Corrientes": [
+    "Entre Ríos",
+    "Rio Grande do Sul",
+    "Chaco",
+    "Santa Fe",
+    "Salto",
+    "Misiones",
+    "San Pedro"
+  ],
+  "Santa Cruz": [
+    "Chubut",
+    "Aisén del General Carlos Ibáñez del Campo",
+    "Magallanes y Antártica Chilena"
+  ],
+  "Mato Grosso do Sul": [
+    "Santa Cruz",
+    "Alto Paraguay",
+    "Paraná",
+    "Mato Grosso",
+    "São Paulo",
+    "Minas Gerais",
+    "Goiás",
+    "Canindeyú",
+    "San Pedro"
+  ],
+  "Alto Paraguay": [
+    "Boquerón",
+    "Presidente Hayes",
+    "Santa Cruz",
+    "Mato Grosso do Sul",
+    "San Pedro"
+  ],
+  "Paraná": [
+    "Mato Grosso do Sul",
+    "Santa Catarina",
+    "São Paulo",
+    "Canindeyú",
+    "Misiones"
+  ],
+  "Santa Catarina": [
+    "Rio Grande do Sul",
+    "Paraná",
+    "Misiones"
+  ],
+  "Baden-Württemberg": [
+    "Bayern",
+    "Hessen",
+    "Luxembourg",
+    "Haute-Savoie"
+  ],
+  "West Pomeranian": [
+    "Mecklenburg-Vorpommern",
+    "Pomeranian",
+    "Greater Poland",
+    "Brandenburg",
+    "Sachsen"
+  ],
+  "Mecklenburg-Vorpommern": [
+    "West Pomeranian",
+    "Niedersachsen",
+    "Brandenburg",
+    "Schleswig-Holstein"
+  ],
+  "Odessa": [
+    "Vinnytsya",
+    "Mykolayiv",
+    "Vrancea",
+    "Silistra",
+    "Iasi",
+    "Kirovohrad"
+  ],
+  "Vinnytsya": [
+    "Zhytomyr",
+    "Odessa",
+    "Kiev",
+    "Botosani",
+    "Chernivtsi",
+    "Khmel'nyts'kyy",
+    "Iasi",
+    "Kirovohrad"
+  ],
+  "Lublin": [
+    "Volyn",
+    "Brest",
+    "Podlachian",
+    "Masovian",
+    "Silesian",
+    "L'viv"
+  ],
+  "Smolensk": [
+    "Vitebsk",
+    "Pskov",
+    "Mogilev",
+    "Bryansk",
+    "Tver'",
+    "Moskovskaya",
+    "Mosko"
+  ],
+  "Mogilev": [
+    "Gomel",
+    "Vitebsk",
+    "Smolensk",
+    "Bryansk",
+    "Minsk"
+  ],
+  "Bryansk": [
+    "Chernihiv",
+    "Gomel",
+    "Smolensk",
+    "Mogilev",
+    "Sumy",
+    "Kursk",
+    "Orel",
+    "Mosko"
+  ],
+  "Sumy": [
+    "Chernihiv",
+    "Bryansk",
+    "Kursk",
+    "Belgorod",
+    "Kharkiv",
+    "Poltava"
+  ],
+  "Kursk": [
+    "Bryansk",
+    "Sumy",
+    "Belgorod",
+    "Voronezh",
+    "Lipetsk",
+    "Orel"
+  ],
+  "Belgorod": [
+    "Sumy",
+    "Kursk",
+    "Kharkiv",
+    "Luhans'k",
+    "Voronezh"
+  ],
+  "Kharkiv": [
+    "Sumy",
+    "Belgorod",
+    "Luhans'k",
+    "Donets'k",
+    "Poltava",
+    "Dnipropetrovs'k"
+  ],
+  "Luhans'k": [
+    "Belgorod",
+    "Kharkiv",
+    "Voronezh",
+    "Rostov",
+    "Donets'k"
+  ],
+  "Voronezh": [
+    "Kursk",
+    "Belgorod",
+    "Luhans'k",
+    "Rostov",
+    "Saratov",
+    "Volgograd",
+    "Lipetsk",
+    "Tambov"
+  ],
+  "Rostov": [
+    "Luhans'k",
+    "Voronezh",
+    "Donets'k",
+    "Volgograd",
+    "Kalmyk",
+    "Stavropol'",
+    "Krasnodar"
+  ],
+  "Donets'k": [
+    "Kharkiv",
+    "Luhans'k",
+    "Rostov",
+    "Zaporizhzhya",
+    "Dnipropetrovs'k"
+  ],
+  "East Azarbaijan": [
+    "West Azarbaijan",
+    "Zanjan",
+    "Qazvin",
+    "Xocavənd"
+  ],
+  "Buryat": [
+    "Hövsgöl",
+    "Tuva",
+    "Bulgan",
+    "Chita",
+    "Irkutsk",
+    "Selenge"
+  ],
+  "Hövsgöl": [
+    "Buryat",
+    "Tuva",
+    "Bulgan",
+    "Dzavhan",
+    "Arhangay"
+  ],
+  "Tuva": [
+    "Bayan-Ölgiy",
+    "Gorno-Altay",
+    "Buryat",
+    "Hövsgöl",
+    "Uvs",
+    "Dzavhan",
+    "Krasnoyarsk",
+    "Irkutsk",
+    "Khakass"
+  ],
+  "Bulgan": [
+    "Buryat",
+    "Hövsgöl",
+    "Arhangay",
+    "Övörhangay",
+    "Selenge",
+    "Töv"
+  ],
+  "Uvs": [
+    "Bayan-Ölgiy",
+    "Hovd",
+    "Tuva",
+    "Dzavhan"
+  ],
+  "Chita": [
+    "Dornod",
+    "Inner Mongol",
+    "Buryat",
+    "Hentiy",
+    "Heilongjiang",
+    "Amur",
+    "Sakha (Yakutia)",
+    "Irkutsk",
+    "Selenge"
+  ],
+  "Dzavhan": [
+    "Hovd",
+    "Govi-Altay",
+    "Bayanhongor",
+    "Hövsgöl",
+    "Tuva",
+    "Uvs",
+    "Arhangay"
+  ],
+  "Hentiy": [
+    "Dornod",
+    "Sühbaatar",
+    "Dornogovi",
+    "Chita",
+    "Selenge",
+    "Töv"
+  ],
+  "Heilongjiang": [
+    "Inner Mongol",
+    "Chita",
+    "Amur",
+    "Yevrey",
+    "Khabarovsk",
+    "Primor'ye",
+    "Jilin"
+  ],
+  "Amur": [
+    "Chita",
+    "Heilongjiang",
+    "Yevrey",
+    "Khabarovsk",
+    "Sakha (Yakutia)"
+  ],
+  "Yevrey": [
+    "Heilongjiang",
+    "Amur",
+    "Khabarovsk"
+  ],
+  "Khabarovsk": [
+    "Heilongjiang",
+    "Amur",
+    "Yevrey",
+    "Primor'ye",
+    "Maga Buryatdan",
+    "Sakha (Yakutia)"
+  ],
+  "Primor'ye": [
+    "Heilongjiang",
+    "Khabarovsk",
+    "Jilin",
+    "Hamgyŏng-namdo"
+  ],
+  "Jilin": [
+    "Inner Mongol",
+    "Heilongjiang",
+    "Primor'ye",
+    "Liaoning",
+    "Hamgyŏng-namdo",
+    "P'yŏngan-namdo"
+  ],
+  "Liaoning": [
+    "Inner Mongol",
+    "Jilin",
+    "Hebei",
+    "P'yŏngan-namdo"
+  ],
+  "Chardzhou": [
+    "Mary",
+    "Ahal",
+    "Tashauz",
+    "Bukhoro",
+    "Faryab",
+    "Khatlon",
+    "Balkh",
+    "Ghor",
+    "Jizzakh"
+  ],
+  "Mary": [
+    "Chardzhou",
+    "Hirat",
+    "Ahal",
+    "Faryab"
+  ],
+  "Hirat": [
+    "Mary",
+    "Ahal",
+    "Razavi Khorasan",
+    "South Khorasan",
+    "Farah",
+    "Faryab",
+    "Ghor"
+  ],
+  "Ahal": [
+    "Chardzhou",
+    "Mary",
+    "Hirat",
+    "Balkan",
+    "Tashauz",
+    "Razavi Khorasan",
+    "Mazandaran"
+  ],
+  "Khuzestan": [
+    "Esfahan",
+    "Ilam",
+    "Chahar Mahall and Bakhtiari",
+    "Lorestan",
+    "Al-Basrah"
+  ],
+  "Kachin": [
+    "Xizang",
+    "Arunachal Pradesh",
+    "Yunnan",
+    "Sagaing",
+    "Shan"
+  ],
+  "Sagaing": [
+    "Arunachal Pradesh",
+    "Kachin",
+    "Shan",
+    "Mandalay",
+    "Manipur",
+    "Magway"
+  ],
+  "Shan": [
+    "Yunnan",
+    "Kachin",
+    "Sagaing",
+    "Uttaradit",
+    "Kayin",
+    "Louang Namtha",
+    "Chiang Mai",
+    "Mandalay"
+  ],
+  "Free State": [
+    "Northern Cape",
+    "Eastern Cape",
+    "North West",
+    "Mpumalanga",
+    "KwaZulu-Natal"
+  ],
+  "Eastern Cape": [
+    "Northern Cape",
+    "Free State",
+    "Western Cape",
+    "KwaZulu-Natal"
+  ],
+  "Limpopo": [
+    "North West",
+    "Gaza",
+    "Central",
+    "Matabeleland South",
+    "Mpumalanga",
+    "Masvingo",
+    "Southern"
+  ],
+  "North West": [
+    "Northern Cape",
+    "Free State",
+    "Limpopo",
+    "Kgalagadi",
+    "Mpumalanga",
+    "Southern"
+  ],
+  "Kgalagadi": [
+    "Northern Cape",
+    "North West",
+    "Hardap",
+    "Omaheke",
+    "Ghanzi",
+    "Southern"
+  ],
+  "Mashonaland West": [
+    "Matabeleland North",
+    "Southern",
+    "Midlands",
+    "Mashonaland Central",
+    "Mashonaland East"
+  ],
+  "Southern": [
+    "Limpopo",
+    "North West",
+    "Kgalagadi",
+    "Ghanzi",
+    "Central"
+  ],
+  "Mbomou": [
+    "Équateur",
+    "Haute-Kotto",
+    "Haut-Mbomou",
+    "Orientale",
+    "Ouaka"
+  ],
+  "Nord-Kivu": [
+    "Orientale",
+    "Sud-Kivu",
+    "Maniema",
+    "Gitega",
+    "Kibale"
+  ],
+  "Amhara": [
+    "Afar",
+    "Gedarif",
+    "Oromiya",
+    "Tigray",
+    "White Nile",
+    "Benshangul-Gumaz"
+  ],
+  "Gedarif": [
+    "Amhara",
+    "Kassala",
+    "Gezira",
+    "Tigray",
+    "White Nile"
+  ],
+  "Jonglei": [
+    "Southern Nations, Nationalities and Peoples",
+    "Eastern Equatoria",
+    "Upper Nile",
+    "Unity",
+    "Central Equatoria"
+  ],
+  "Salamat": [
+    "Bamingui-Bangoran",
+    "Guéra",
+    "Sila",
+    "Vakaga",
+    "Ouham"
+  ],
+  "Bamingui-Bangoran": [
+    "Haute-Kotto",
+    "Salamat",
+    "Ouaka",
+    "Nana-Grébizi",
+    "Vakaga",
+    "Ouham"
+  ],
+  "Nord": [
+    "Adamaoua",
+    "Adamawa",
+    "Ouham-Pendé",
+    "Mayo-Kebbi Ouest",
+    "Chari-Baguirmi"
+  ],
+  "Adamaoua": [
+    "Nord",
+    "Taraba",
+    "Est",
+    "Centre",
+    "Adamawa",
+    "Ouham-Pendé",
+    "Mambéré-Kadéï",
+    "Sud-Ouest"
+  ],
+  "Taraba": [
+    "Adamaoua",
+    "Adamawa",
+    "Nassarawa",
+    "Benue",
+    "Sud-Ouest",
+    "Bauchi"
+  ],
+  "Tahoua": [
+    "Gao",
+    "Agadez",
+    "Kidal",
+    "Tillabéri",
+    "Dosso",
+    "Zamfara"
+  ],
+  "Diffa": [
+    "Borno",
+    "Zinder",
+    "Borkou",
+    "Tibesti",
+    "Agadez",
+    "Kanem",
+    "Hadjer-Lamis",
+    "Bauchi"
+  ],
+  "Zinder": [
+    "Diffa",
+    "Agadez",
+    "Zamfara",
+    "Jigawa",
+    "Bauchi"
+  ],
+  "Gao": [
+    "Timbuktu",
+    "Tahoua",
+    "Kidal",
+    "Tillabéri",
+    "Bam"
+  ],
+  "Mopti": [
+    "Timbuktu",
+    "Ségou",
+    "Sissili",
+    "Bam"
+  ],
+  "Ségou": [
+    "Timbuktu",
+    "Mopti",
+    "Sikasso",
+    "Hodh ech Chargui",
+    "Koulikoro",
+    "Sissili"
+  ],
+  "Sikasso": [
+    "Ségou",
+    "Koulikoro",
+    "Komoé",
+    "Sissili",
+    "Worodougou",
+    "Beyla"
+  ],
+  "Guangxi": [
+    "Yunnan",
+    "Guizhou",
+    "Hunan",
+    "Guangdong",
+    "Ha Noi",
+    "Lào Cai"
+  ],
+  "Cabo Delgado": [
+    "Nampula",
+    "Niassa",
+    "Ruvuma"
+  ],
+  "Washington": [
+    "British Columbia",
+    "Idaho",
+    "Oregon"
+  ],
+  "British Columbia": [
+    "Washington",
+    "Idaho",
+    "Montana",
+    "Alberta",
+    "Alaska",
+    "Yukon",
+    "Northwest Territories"
+  ],
+  "Idaho": [
+    "Washington",
+    "British Columbia",
+    "Montana",
+    "Oregon",
+    "Utah",
+    "Wyoming",
+    "Nevada"
+  ],
+  "Montana": [
+    "British Columbia",
+    "Idaho",
+    "Alberta",
+    "Saskatchewan",
+    "North Dakota",
+    "Wyoming",
+    "South Dakota"
+  ],
+  "Alberta": [
+    "British Columbia",
+    "Montana",
+    "Saskatchewan",
+    "Northwest Territories"
+  ],
+  "Saskatchewan": [
+    "Montana",
+    "Alberta",
+    "North Dakota",
+    "Manitoba",
+    "Nunavut",
+    "Northwest Territories"
+  ],
+  "North Dakota": [
+    "Montana",
+    "Saskatchewan",
+    "Manitoba",
+    "Minnesota",
+    "South Dakota"
+  ],
+  "Manitoba": [
+    "Saskatchewan",
+    "North Dakota",
+    "Minnesota",
+    "Ontario",
+    "Nunavut",
+    "Northwest Territories"
+  ],
+  "Minnesota": [
+    "North Dakota",
+    "Manitoba",
+    "Ontario",
+    "Michigan",
+    "South Dakota",
+    "Iowa",
+    "Wisconsin"
+  ],
+  "Ontario": [
+    "Manitoba",
+    "Minnesota",
+    "Michigan",
+    "Ohio",
+    "New York",
+    "Québec",
+    "Pennsylvania"
+  ],
+  "Michigan": [
+    "Minnesota",
+    "Ontario",
+    "Ohio",
+    "Wisconsin",
+    "Illinois",
+    "Indiana"
+  ],
+  "Ohio": [
+    "Ontario",
+    "Michigan",
+    "Kentucky",
+    "West Virginia",
+    "Indiana",
+    "Pennsylvania"
+  ],
+  "New York": [
+    "Ontario",
+    "Québec",
+    "Massachusetts",
+    "Pennsylvania",
+    "Vermont"
+  ],
+  "Québec": [
+    "Ontario",
+    "New York",
+    "Maine",
+    "New Brunswick",
+    "Newfoundland and Labrador",
+    "Vermont"
+  ],
+  "Maine": [
+    "Québec",
+    "New Brunswick",
+    "Vermont"
+  ],
+  "New Brunswick": [
+    "Québec",
+    "Maine",
+    "Nova Scotia"
+  ],
+  "Arizona": [
+    "Sonora",
+    "Baja California",
+    "California",
+    "New Mexico",
+    "Utah",
+    "Nevada",
+    "Colorado"
+  ],
+  "Sonora": [
+    "Arizona",
+    "Baja California",
+    "New Mexico",
+    "Chihuahua",
+    "Sinaloa"
+  ],
+  "Baja California": [
+    "Arizona",
+    "Sonora",
+    "California",
+    "Baja California Sur"
+  ],
+  "California": [
+    "Arizona",
+    "Baja California",
+    "Oregon",
+    "Nevada"
+  ],
+  "New Mexico": [
+    "Arizona",
+    "Sonora",
+    "Chihuahua",
+    "Texas",
+    "Utah",
+    "Colorado",
+    "Oklahoma"
+  ],
+  "Chihuahua": [
+    "Sonora",
+    "New Mexico",
+    "Texas",
+    "Coahuila",
+    "Durango",
+    "Sinaloa"
+  ],
+  "Texas": [
+    "New Mexico",
+    "Chihuahua",
+    "Coahuila",
+    "Tamaulipas",
+    "Nuevo León",
+    "Louisiana",
+    "Oklahoma",
+    "Arkansas"
+  ],
+  "Coahuila": [
+    "Chihuahua",
+    "Texas",
+    "Nuevo León",
+    "San Luis Potosí",
+    "Durango",
+    "Zacatecas"
+  ],
+  "Tamaulipas": [
+    "Texas",
+    "Nuevo León",
+    "Veracruz",
+    "San Luis Potosí"
+  ],
+  "Nuevo León": [
+    "Texas",
+    "Coahuila",
+    "Tamaulipas",
+    "San Luis Potosí",
+    "Zacatecas"
+  ],
+  "Campeche": [
+    "Atlántida",
+    "Petén",
+    "Quintana Roo"
+  ],
+  "Chiapas": [
+    "Veracruz",
+    "Oaxaca",
+    "Petén",
+    "Retalhuleu"
+  ],
+  "Bolívar": [
+    "Roraima",
+    "Amazonas",
+    "Apure",
+    "Vichada",
+    "Guárico",
+    "Monagas",
+    "Anzoátegui",
+    "Upper Takutu-Upper Essequibo"
+  ],
+  "Amazonas": [
+    "Loreto",
+    "San Martín",
+    "La Libertad",
+    "Bolivar"
+  ],
+  "Guainía": [
+    "Amazonas",
+    "Vaupés",
+    "Amazonas",
+    "Vichada",
+    "Guaviare"
+  ],
+  "Vaupés": [
+    "Amazonas",
+    "Guainía",
+    "Amazonas",
+    "Caquetá",
+    "Guaviare"
+  ],
+  "Loreto": [
+    "Acre",
+    "Amazonas",
+    "Amazonas",
+    "Ucayali",
+    "San Martín",
+    "Nariño",
+    "Orellana",
+    "Huánuco",
+    "Amazonas",
+    "Bolivar"
+  ],
+  "Chuquisaca": [
+    "Potosí",
+    "Boquerón",
+    "Santa Cruz",
+    "Cochabamba",
+    "Tarija"
+  ],
+  "Ucayali": [
+    "Madre de Dios",
+    "Acre",
+    "Loreto",
+    "Cusco",
+    "Lima",
+    "Huánuco",
+    "Junín"
+  ],
+  "Pando": [
+    "La Paz",
+    "Madre de Dios",
+    "Acre",
+    "Rondônia",
+    "El Beni"
+  ],
+  "Rondônia": [
+    "Acre",
+    "Santa Cruz",
+    "Amazonas",
+    "Pando",
+    "El Beni",
+    "Mato Grosso"
+  ],
+  "El Beni": [
+    "La Paz",
+    "Santa Cruz",
+    "Pando",
+    "Rondônia",
+    "Cochabamba"
+  ],
+  "Mato Grosso": [
+    "Pará",
+    "Santa Cruz",
+    "Mato Grosso do Sul",
+    "Amazonas",
+    "Rondônia",
+    "Tocantins",
+    "Goiás"
+  ],
+  "Puno": [
+    "La Paz",
+    "Madre de Dios",
+    "Arequipa",
+    "Cusco",
+    "Tacna"
+  ],
+  "Atacama": [
+    "Antofagasta",
+    "La Rioja",
+    "San Juan",
+    "Catamarca",
+    "Coquimbo"
+  ],
+  "La Rioja": [
+    "Atacama",
+    "San Juan",
+    "San Luis",
+    "Córdoba",
+    "Catamarca"
+  ],
+  "San Juan": [],
+  "Mendoza": [
+    "San Juan",
+    "Neuquén",
+    "Río Negro",
+    "San Luis",
+    "La Pampa",
+    "Maule",
+    "Coquimbo"
+  ],
+  "Neuquén": [
+    "Mendoza",
+    "Los Lagos",
+    "Río Negro",
+    "La Pampa",
+    "Bío-Bío",
+    "Maule",
+    "La Araucanía"
+  ],
+  "Chubut": [
+    "Los Lagos",
+    "Río Negro",
+    "Aisén del General Carlos Ibáñez del Campo",
+    "Santa Cruz"
+  ],
+  "Los Lagos": [
+    "Neuquén",
+    "Chubut",
+    "Río Negro",
+    "Aisén del General Carlos Ibáñez del Campo",
+    "La Araucanía"
+  ],
+  "Río Negro": [
+    "Mendoza",
+    "Neuquén",
+    "Chubut",
+    "Los Lagos",
+    "La Pampa",
+    "Buenos Aires"
+  ],
+  "Aisén del General Carlos Ibáñez del Campo": [
+    "Chubut",
+    "Los Lagos",
+    "Santa Cruz",
+    "Magallanes y Antártica Chilena"
+  ],
+  "Magallanes y Antártica Chilena": [
+    "Aisén del General Carlos Ibáñez del Campo",
+    "Santa Cruz",
+    "Tierra del Fuego"
+  ],
+  "Tierra del Fuego": [
+    "Magallanes y Antártica Chilena"
+  ],
+  "Apure": [
+    "Bolívar",
+    "Vichada",
+    "Guárico",
+    "Casanare",
+    "Táchira",
+    "Zulia"
+  ],
+  "Vichada": [
+    "Bolívar",
+    "Guainía",
+    "Amazonas",
+    "Apure",
+    "Guaviare",
+    "Meta",
+    "Casanare"
+  ],
+  "Pomeranian": [
+    "Warmian-Masurian",
+    "West Pomeranian",
+    "Greater Poland",
+    "Kauno",
+    "Kuyavian-Pomeranian"
+  ],
+  "Papua": [
+    "Western",
+    "Papua Barat",
+    "East Sepik"
+  ],
+  "Western": [
+    "Eastern Equatoria",
+    "Rift Valley",
+    "Kalangala",
+    "Kagera",
+    "Kibale"
+  ],
+  "Balkan": [
+    "Ahal",
+    "Mangghystau",
+    "Karakalpakstan",
+    "Tashauz",
+    "Mazandaran"
+  ],
+  "Mangghystau": [
+    "Balkan",
+    "Karakalpakstan",
+    "Aqtöbe",
+    "Atyrau"
+  ],
+  "Karakalpakstan": [
+    "Balkan",
+    "Mangghystau",
+    "Aqtöbe",
+    "Navoi",
+    "Tashauz",
+    "Bukhoro",
+    "Qyzylorda"
+  ],
+  "Aqtöbe": [
+    "Mangghystau",
+    "Karakalpakstan",
+    "Qostanay",
+    "Orenburg",
+    "West Kazakhstan",
+    "Atyrau",
+    "Qaraghandy",
+    "Qyzylorda"
+  ],
+  "Navoi": [
+    "South Kazakhstan",
+    "Karakalpakstan",
+    "Bukhoro",
+    "Qyzylorda",
+    "Jizzakh"
+  ],
+  "Tashauz": [
+    "Chardzhou",
+    "Ahal",
+    "Balkan",
+    "Karakalpakstan",
+    "Bukhoro"
+  ],
+  "Razavi Khorasan": [
+    "Hirat",
+    "Ahal",
+    "South Khorasan",
+    "Semnan",
+    "Yazd",
+    "Mazandaran"
+  ],
+  "South Khorasan": [
+    "Hirat",
+    "Razavi Khorasan",
+    "Sistan and Baluchestan",
+    "Farah",
+    "Kerman",
+    "Yazd"
+  ],
+  "Nimroz": [
+    "Sistan and Baluchestan",
+    "Farah",
+    "Baluchistan",
+    "Hilmand"
+  ],
+  "Sistan and Baluchestan": [
+    "South Khorasan",
+    "Nimroz",
+    "Farah",
+    "Baluchistan",
+    "Hormozgan",
+    "Kerman"
+  ],
+  "Farah": [
+    "Hirat",
+    "South Khorasan",
+    "Nimroz",
+    "Sistan and Baluchestan",
+    "Hilmand",
+    "Ghor"
+  ],
+  "Baluchistan": [
+    "Nimroz",
+    "Sistan and Baluchestan",
+    "Kandahar",
+    "Hilmand",
+    "Punjab",
+    "Sind",
+    "Nangarhar",
+    "Bamyan"
+  ],
+  "Kandahar": [
+    "Baluchistan",
+    "Hilmand",
+    "Bamyan"
+  ],
+  "Hilmand": [
+    "Nimroz",
+    "Farah",
+    "Baluchistan",
+    "Kandahar",
+    "Bamyan",
+    "Ghor"
+  ],
+  "North Kazakhstan": [
+    "Tyumen'",
+    "Kurgan",
+    "Omsk",
+    "Qostanay",
+    "Pavlodar",
+    "Aqmola"
+  ],
+  "Tyumen'": [
+    "North Kazakhstan",
+    "Kurgan",
+    "Omsk",
+    "Sverdlovsk",
+    "Khanty-Mansiy",
+    "Tomsk"
+  ],
+  "Kurgan": [
+    "North Kazakhstan",
+    "Tyumen'",
+    "Qostanay",
+    "Chelyabinsk",
+    "Sverdlovsk"
+  ],
+  "Omsk": [
+    "North Kazakhstan",
+    "Tyumen'",
+    "Pavlodar",
+    "Novosibirsk",
+    "Tomsk"
+  ],
+  "Qostanay": [
+    "Aqtöbe",
+    "North Kazakhstan",
+    "Kurgan",
+    "Chelyabinsk",
+    "Orenburg",
+    "Qaraghandy",
+    "Aqmola"
+  ],
+  "Pavlodar": [
+    "East Kazakhstan",
+    "North Kazakhstan",
+    "Omsk",
+    "Novosibirsk",
+    "Altay",
+    "Qaraghandy",
+    "Aqmola"
+  ],
+  "Novosibirsk": [
+    "Omsk",
+    "Pavlodar",
+    "Altay",
+    "Tomsk",
+    "Kemerovo"
+  ],
+  "Chelyabinsk": [
+    "Kurgan",
+    "Qostanay",
+    "Orenburg",
+    "Bashkortostan",
+    "Sverdlovsk"
+  ],
+  "Altay": [
+    "East Kazakhstan",
+    "Gorno-Altay",
+    "Pavlodar",
+    "Novosibirsk",
+    "Kemerovo"
+  ],
+  "Orenburg": [
+    "Aqtöbe",
+    "Qostanay",
+    "Chelyabinsk",
+    "West Kazakhstan",
+    "Saratov",
+    "Bashkortostan",
+    "Tatarstan",
+    "Samara"
+  ],
+  "West Kazakhstan": [
+    "Aqtöbe",
+    "Orenburg",
+    "Saratov",
+    "Astrakhan'",
+    "Volgograd",
+    "Atyrau",
+    "Samara"
+  ],
+  "Saratov": [
+    "Voronezh",
+    "Orenburg",
+    "West Kazakhstan",
+    "Volgograd",
+    "Tambov",
+    "Ul'yanovsk",
+    "Penza",
+    "Samara"
+  ],
+  "Astrakhan'": [
+    "West Kazakhstan",
+    "Volgograd",
+    "Atyrau",
+    "Kalmyk"
+  ],
+  "Volgograd": [
+    "Voronezh",
+    "Rostov",
+    "West Kazakhstan",
+    "Saratov",
+    "Astrakhan'",
+    "Kalmyk"
+  ],
+  "Atyrau": [
+    "Mangghystau",
+    "Aqtöbe",
+    "West Kazakhstan",
+    "Astrakhan'"
+  ],
+  "Al Hudud ash Shamaliyah": [
+    "Al-Muthannia",
+    "Al-Anbar",
+    "Al Jawf",
+    "Ar Riyad",
+    "Ha'il",
+    "Ash Sharqiyah",
+    "An-Najaf",
+    "Balqa"
+  ],
+  "Al-Anbar": [
+    "Homs (Hims)",
+    "Al Hudud ash Shamaliyah",
+    "An-Najaf",
+    "Balqa",
+    "Arbil",
+    "Ninawa",
+    "Diyala"
+  ],
+  "Al Jawf": [
+    "Hadramawt",
+    "Najran",
+    "Jizan",
+    "Shabwah"
+  ],
+  "Hadramawt": [
+    "Dhofar",
+    "Al Mahrah",
+    "Najran",
+    "Ash Sharqiyah",
+    "Al Jawf",
+    "Shabwah"
+  ],
+  "Dhofar": [
+    "Hadramawt",
+    "Al Mahrah",
+    "Al Wusta",
+    "Ash Sharqiyah"
+  ],
+  "Al Mahrah": [
+    "Hadramawt",
+    "Dhofar"
+  ],
+  "Al Wusta": [
+    "Dhofar",
+    "Ash Sharqiyah",
+    "Ad Dakhliyah",
+    "Al Dhahira"
+  ],
+  "Najran": [
+    "Hadramawt",
+    "Ar Riyad",
+    "`Asir",
+    "Ash Sharqiyah",
+    "Jizan",
+    "Al Jawf"
+  ],
+  "Al Kufrah": [
+    "Ennedi",
+    "Borkou",
+    "Murzuq",
+    "Northern",
+    "North Darfur",
+    "Ajdabiya",
+    "Al Wadi at Jadid",
+    "Al Jufrah"
+  ],
+  "Ennedi": [
+    "Al Kufrah",
+    "Borkou",
+    "North Darfur",
+    "Wadi Fira"
+  ],
+  "Borkou": [
+    "Diffa",
+    "Al Kufrah",
+    "Ennedi",
+    "Murzuq",
+    "Tibesti",
+    "Kanem",
+    "Barh El Gazel",
+    "Batha",
+    "Wadi Fira"
+  ],
+  "Murzuq": [
+    "Al Kufrah",
+    "Borkou",
+    "Tibesti",
+    "Agadez",
+    "Tamanghasset",
+    "Illizi",
+    "Ghat",
+    "Al Jufrah",
+    "Wadi al Hayaa"
+  ],
+  "Tibesti": [
+    "Diffa",
+    "Borkou",
+    "Murzuq",
+    "Agadez"
+  ],
+  "Agadez": [
+    "Tahoua",
+    "Diffa",
+    "Zinder",
+    "Murzuq",
+    "Tibesti",
+    "Tamanghasset",
+    "Kidal",
+    "Zamfara"
+  ],
+  "Tamanghasset": [
+    "Adrar",
+    "Murzuq",
+    "Agadez",
+    "Ouargla",
+    "Kidal",
+    "Illizi",
+    "Ghardaïa"
+  ],
+  "Tiris Zemmour": [
+    "Western Sahara",
+    "Timbuktu",
+    "Adrar",
+    "Tindouf",
+    "Adrar"
+  ],
+  "Tindouf": [
+    "Guelmim - Es-Semara",
+    "Western Sahara",
+    "Adrar",
+    "Tiris Zemmour",
+    "Béchar",
+    "Souss - Massa - Draâ"
+  ],
+  "Kanem": [
+    "Diffa",
+    "Borkou",
+    "Barh El Gazel",
+    "Hadjer-Lamis"
+  ],
+  "Al Bahr al Ahmar": [
+    "Northern",
+    "River Nile",
+    "Red Sea",
+    "Al Minya",
+    "Shamal Sina'",
+    "Al Jizah"
+  ],
+  "River Nile": [
+    "Northern",
+    "Al Bahr al Ahmar",
+    "Red Sea",
+    "Kassala",
+    "Gezira"
+  ],
+  "North-Eastern": [
+    "Coast",
+    "Somali",
+    "Eastern",
+    "Jubbada Hoose"
+  ],
+  "Béchar": [
+    "Adrar",
+    "Tindouf",
+    "Meknès - Tafilalet",
+    "Souss - Massa - Draâ",
+    "El Bayadh",
+    "Oriental",
+    "Mascara"
+  ],
+  "Meknès - Tafilalet": [
+    "Béchar",
+    "Souss - Massa - Draâ",
+    "Oriental",
+    "Marrakech - Tensift - Al Haouz",
+    "Taza - Al Hoceima - Taounate",
+    "Chaouia - Ouardigha"
+  ],
+  "Souss - Massa - Draâ": [
+    "Guelmim - Es-Semara",
+    "Tindouf",
+    "Béchar",
+    "Meknès - Tafilalet",
+    "Marrakech - Tensift - Al Haouz"
+  ],
+  "El Oued": [
+    "Ouargla",
+    "Gafsa",
+    "Batna",
+    "Gabès",
+    "Djelfa",
+    "Tataouine"
+  ],
+  "Ouargla": [
+    "Ghadamis",
+    "Tamanghasset",
+    "El Oued",
+    "Illizi",
+    "Ghardaïa",
+    "Djelfa",
+    "Tataouine"
+  ],
+  "Kidal": [
+    "Timbuktu",
+    "Adrar",
+    "Tahoua",
+    "Gao",
+    "Agadez",
+    "Tamanghasset"
+  ],
+  "North Darfur": [
+    "Southern Darfur",
+    "Al Kufrah",
+    "Ennedi",
+    "Northern",
+    "North Kordufan",
+    "Eastern Darfur",
+    "Vakaga",
+    "Wadi Fira"
+  ],
+  "Al Butnan": [
+    "Matruh",
+    "Ajdabiya",
+    "Al Marj"
+  ],
+  "Matruh": [
+    "Al Butnan",
+    "Ajdabiya",
+    "Al Wadi at Jadid",
+    "Al Jizah"
+  ],
+  "Ajdabiya": [
+    "Al Kufrah",
+    "Al Butnan",
+    "Matruh",
+    "Al Wadi at Jadid",
+    "Surt",
+    "Al Jufrah",
+    "Al Marj"
+  ],
+  "Al Wadi at Jadid": [
+    "Al Kufrah",
+    "Northern",
+    "Matruh",
+    "Ajdabiya",
+    "Al Minya",
+    "Al Jizah"
+  ],
+  "Coast": [
+    "Rift Valley",
+    "North-Eastern",
+    "Eastern",
+    "Tanga",
+    "Jubbada Hoose"
+  ],
+  "Hodh ech Chargui": [
+    "Timbuktu",
+    "Ségou",
+    "Adrar",
+    "Hodh el Gharbi",
+    "Tagant",
+    "Koulikoro"
+  ],
+  "Hodh el Gharbi": [
+    "Kayes",
+    "Hodh ech Chargui",
+    "Tagant",
+    "Koulikoro",
+    "Assaba"
+  ],
+  "Cuando Cubango": [
+    "Western",
+    "Moxico",
+    "Cunene",
+    "Bié",
+    "Huíla",
+    "Kavango",
+    "Omusati"
+  ],
+  "Moxico": [
+    "Katanga",
+    "Western",
+    "Cuando Cubango",
+    "North-Western",
+    "Lunda Sul",
+    "Bié"
+  ],
+  "North-Western": [
+    "Katanga",
+    "Western",
+    "Moxico",
+    "Central"
+  ],
+  "Namibe": [
+    "Kunene",
+    "Cunene",
+    "Huíla",
+    "Benguela"
+  ],
+  "Kunene": [
+    "Namibe",
+    "Cunene",
+    "Otjozondjupa",
+    "Omusati",
+    "Erongo"
+  ],
+  "Cunene": [
+    "Cuando Cubango",
+    "Namibe",
+    "Kunene",
+    "Huíla",
+    "Omusati"
+  ],
+  "Tete": [
+    "Eastern",
+    "Manica",
+    "Zambezia",
+    "Sofala",
+    "Lilongwe",
+    "Mashonaland Central",
+    "Mashonaland East",
+    "Masvingo",
+    "Mangochi"
+  ],
+  "Manica": [
+    "Tete",
+    "Gaza",
+    "Inhambane",
+    "Sofala",
+    "Masvingo"
+  ],
+  "Gaza": [
+    "Limpopo",
+    "Manica",
+    "Inhambane",
+    "Maputo",
+    "Mpumalanga",
+    "Masvingo"
+  ],
+  "Uíge": [
+    "Bandundu",
+    "Malanje",
+    "Bengo",
+    "Bas-Congo"
+  ],
+  "Kasaï-Occidental": [
+    "Équateur",
+    "Bandundu",
+    "Katanga",
+    "Lunda Norte",
+    "Kasaï-Oriental"
+  ],
+  "Lunda Norte": [
+    "Bandundu",
+    "Katanga",
+    "Kasaï-Occidental",
+    "Malanje",
+    "Lunda Sul"
+  ],
+  "Malanje": [
+    "Bandundu",
+    "Uíge",
+    "Lunda Norte",
+    "Lunda Sul",
+    "Cuanza Sul",
+    "Bié",
+    "Bengo"
+  ],
+  "Lunda Sul": [
+    "Katanga",
+    "Moxico",
+    "Lunda Norte",
+    "Malanje",
+    "Bié"
+  ],
+  "Hardap": [
+    "Karas",
+    "Northern Cape",
+    "Kgalagadi",
+    "Omaheke",
+    "Erongo"
+  ],
+  "Otjozondjupa": [
+    "North-West",
+    "Kunene",
+    "Omaheke",
+    "Kavango",
+    "Omusati",
+    "Erongo"
+  ],
+  "Omaheke": [
+    "North-West",
+    "Kgalagadi",
+    "Hardap",
+    "Otjozondjupa",
+    "Ghanzi",
+    "Erongo"
+  ],
+  "Ghanzi": [
+    "North-West",
+    "Kgalagadi",
+    "Omaheke",
+    "Central",
+    "Southern"
+  ],
+  "Illizi": [
+    "Ghadamis",
+    "Murzuq",
+    "Tamanghasset",
+    "Ouargla",
+    "Ash Shati'",
+    "Ghat"
+  ],
+  "Ash Shati'": [
+    "Ghadamis",
+    "Illizi",
+    "Ghat",
+    "Mizdah",
+    "Al Jufrah",
+    "Wadi al Hayaa"
+  ],
+  "Ghat": [
+    "Murzuq",
+    "Illizi",
+    "Ash Shati'",
+    "Wadi al Hayaa"
+  ],
+  "Est": [
+    "Adamaoua",
+    "Centre",
+    "Mambéré-Kadéï",
+    "Sangha",
+    "Wouleu-Ntem"
+  ],
+  "Luapula": [
+    "Muchinga",
+    "Katanga",
+    "Northern"
+  ],
+  "Zambezia": [
+    "Tete",
+    "Sofala",
+    "Nampula",
+    "Niassa",
+    "Mangochi"
+  ],
+  "Red Sea": [
+    "Al Bahr al Ahmar",
+    "River Nile",
+    "Kassala",
+    "Semenawi Keyih Bahri"
+  ],
+  "Kassala": [
+    "Gedarif",
+    "River Nile",
+    "Red Sea",
+    "Gezira",
+    "Tigray",
+    "Semenawi Keyih Bahri"
+  ],
+  "Punjab": [
+    "Punjab",
+    "Rajasthan",
+    "Himachal Pradesh",
+    "Haryana",
+    "Jammu and Kashmir"
+  ],
+  "Rajasthan": [
+    "Punjab",
+    "Punjab",
+    "Sind",
+    "Uttar Pradesh",
+    "Madhya Pradesh",
+    "Gujarat",
+    "Haryana"
+  ],
+  "Sind": [
+    "Baluchistan",
+    "Punjab",
+    "Rajasthan",
+    "Gujarat"
+  ],
+  "Alaska": [
+    "British Columbia",
+    "Yukon"
+  ],
+  "Yukon": [
+    "British Columbia",
+    "Alaska",
+    "Northwest Territories"
+  ],
+  "South Kordufan": [
+    "North Kordufan",
+    "Upper Nile",
+    "Unity",
+    "White Nile",
+    "Eastern Darfur"
+  ],
+  "Himachal Pradesh": [
+    "Xizang",
+    "Uttarakhand",
+    "Punjab",
+    "Uttar Pradesh",
+    "Haryana",
+    "Ladakh",
+    "Jammu and Kashmir"
+  ],
+  "Kherson": [
+    "Zaporizhzhya",
+    "Mykolayiv",
+    "Dnipropetrovs'k",
+    "Crimea"
+  ],
+  "Bihar": [
+    "West Bengal",
+    "Uttar Pradesh",
+    "Jharkhand",
+    "Lumbini"
+  ],
+  "Uttar Pradesh": [
+    "Uttarakhand",
+    "Rajasthan",
+    "Himachal Pradesh",
+    "Bihar",
+    "Jharkhand",
+    "Madhya Pradesh",
+    "Chhattisgarh",
+    "Haryana",
+    "Bheri",
+    "Lumbini"
+  ],
+  "Antarctica": [],
+  "Maranhão": [
+    "Pará",
+    "Piauí",
+    "Tocantins"
+  ],
+  "Piauí": [
+    "Maranhão",
+    "Ceará",
+    "Pernambuco",
+    "Bahia",
+    "Tocantins"
+  ],
+  "Ceará": [
+    "Piauí",
+    "Rio Grande do Norte",
+    "Paraíba",
+    "Pernambuco"
+  ],
+  "Rio Grande do Norte": [
+    "Ceará",
+    "Paraíba"
+  ],
+  "Paraíba": [
+    "Ceará",
+    "Rio Grande do Norte",
+    "Pernambuco"
+  ],
+  "Pernambuco": [
+    "Piauí",
+    "Ceará",
+    "Paraíba",
+    "Bahia",
+    "Alagoas"
+  ],
+  "Bahia": [
+    "Piauí",
+    "Pernambuco",
+    "Espírito Santo",
+    "Minas Gerais",
+    "Tocantins",
+    "Goiás",
+    "Alagoas"
+  ],
+  "Espírito Santo": [
+    "Bahia",
+    "Rio de Janeiro",
+    "Minas Gerais"
+  ],
+  "Rio de Janeiro": [
+    "Espírito Santo",
+    "São Paulo",
+    "Minas Gerais"
+  ],
+  "São Paulo": [
+    "Mato Grosso do Sul",
+    "Paraná",
+    "Rio de Janeiro",
+    "Minas Gerais"
+  ],
+  "Western Australia": [
+    "Northern Territory",
+    "South Australia"
+  ],
+  "Northern Territory": [
+    "Western Australia",
+    "South Australia",
+    "Queensland"
+  ],
+  "Sofia": [
+    "Betsiboka",
+    "Melaky",
+    "Atsinanana"
+  ],
+  "Atsimo-Andrefana": [
+    "Anosy",
+    "Ihorombe",
+    "Vatovavy-Fitovinany",
+    "Menabe"
+  ],
+  "South Australia": [
+    "Western Australia",
+    "Northern Territory",
+    "Queensland",
+    "Victoria",
+    "New South Wales"
+  ],
+  "Queensland": [
+    "Northern Territory",
+    "South Australia",
+    "New South Wales"
+  ],
+  "Victoria": [
+    "South Australia",
+    "New South Wales"
+  ],
+  "Cuanza Sul": [
+    "Malanje",
+    "Bié",
+    "Bengo",
+    "Benguela"
+  ],
+  "Western Cape": [
+    "Northern Cape",
+    "Eastern Cape"
+  ],
+  "Inhambane": [
+    "Manica",
+    "Gaza",
+    "Sofala"
+  ],
+  "Sofala": [
+    "Tete",
+    "Manica",
+    "Zambezia",
+    "Inhambane"
+  ],
+  "Nampula": [
+    "Cabo Delgado",
+    "Zambezia",
+    "Niassa"
+  ],
+  "Lindi": [
+    "Morogoro",
+    "Ruvuma",
+    "Tanga"
+  ],
+  "Papua Barat": [
+    "Papua"
+  ],
+  "Riau": [
+    "Sumatera Utara",
+    "Jambi"
+  ],
+  "Arequipa": [
+    "Puno",
+    "Cusco",
+    "Ayacucho",
+    "Junín",
+    "Tacna"
+  ],
+  "Sumatera Selatan": [
+    "Lampung",
+    "Jambi"
+  ],
+  "Sumatera Utara": [
+    "Riau",
+    "Aceh",
+    "Jambi"
+  ],
+  "Aceh": [
+    "Sumatera Utara"
+  ],
+  "Antioquia": [
+    "Chocó",
+    "Cesar",
+    "Cundinamarca",
+    "Magdalena",
+    "Zulia"
+  ],
+  "Andhra Pradesh": [
+    "Odisha",
+    "Telangana",
+    "Karnataka",
+    "Tamil Nadu"
+  ],
+  "Surt": [
+    "Ajdabiya",
+    "Misratah",
+    "Al Jufrah"
+  ],
+  "Misratah": [
+    "Surt",
+    "Mizdah",
+    "Al Jufrah",
+    "Tataouine"
+  ],
+  "Fujian": [
+    "Jiangxi",
+    "Guangdong",
+    "Zhejiang"
+  ],
+  "Baja California Sur": [
+    "Baja California"
+  ],
+  "Tabuk": [
+    "Al Jawf",
+    "Al Madinah",
+    "Ha'il"
+  ],
+  "Al Madinah": [
+    "Tabuk",
+    "Makkah",
+    "Ar Riyad",
+    "Al Quassim",
+    "Ha'il"
+  ],
+  "Makkah": [
+    "Al Madinah",
+    "Ar Riyad",
+    "`Asir",
+    "Jizan"
+  ],
+  "Louisiana": [
+    "Texas",
+    "Mississippi",
+    "Arkansas"
+  ],
+  "Mississippi": [
+    "Louisiana",
+    "Alabama",
+    "Arkansas",
+    "Tennessee"
+  ],
+  "Alabama": [
+    "Mississippi",
+    "Florida",
+    "Georgia",
+    "Tennessee"
+  ],
+  "Florida": [
+    "Alabama",
+    "Georgia"
+  ],
+  "Georgia": [
+    "Alabama",
+    "Florida",
+    "South Carolina",
+    "North Carolina",
+    "Tennessee"
+  ],
+  "South Carolina": [
+    "Georgia",
+    "North Carolina"
+  ],
+  "North Carolina": [
+    "Georgia",
+    "South Carolina",
+    "Virginia",
+    "Tennessee"
+  ],
+  "Virginia": [
+    "North Carolina",
+    "Kentucky",
+    "Tennessee",
+    "West Virginia",
+    "Maryland"
+  ],
+  "Veracruz": [
+    "Tamaulipas",
+    "Chiapas",
+    "Oaxaca",
+    "San Luis Potosí",
+    "Petén",
+    "Puebla",
+    "Hidalgo"
+  ],
+  "Jalisco": [
+    "San Luis Potosí",
+    "Zacatecas",
+    "Michoacán",
+    "Sinaloa",
+    "Hidalgo"
+  ],
+  "Guerrero": [
+    "Oaxaca",
+    "Michoacán",
+    "Puebla"
+  ],
+  "Oaxaca": [
+    "Chiapas",
+    "Veracruz",
+    "Guerrero",
+    "Puebla"
+  ],
+  "Jiangsu": [
+    "Shandong",
+    "Anhui",
+    "Zhejiang"
+  ],
+  "Hormozgan": [
+    "Sistan and Baluchestan",
+    "Fars",
+    "Kerman",
+    "Chahar Mahall and Bakhtiari"
+  ],
+  "Oregon": [
+    "Washington",
+    "Idaho",
+    "California",
+    "Nevada"
+  ],
+  "Nunavut": [
+    "Saskatchewan",
+    "Manitoba",
+    "Northwest Territories"
+  ],
+  "Newfoundland and Labrador": [
+    "Québec"
+  ],
+  "Nova Scotia": [
+    "New Brunswick"
+  ],
+  "Hokkaidō": [],
+  "Odisha": [
+    "West Bengal",
+    "Andhra Pradesh",
+    "Jharkhand",
+    "Chhattisgarh",
+    "Telangana"
+  ],
+  "Shandong": [
+    "Jiangsu",
+    "Henan",
+    "Anhui",
+    "Hebei"
+  ],
+  "Maga Buryatdan": [
+    "Khabarovsk",
+    "Chukchi Autonomous Okrug",
+    "Sakha (Yakutia)",
+    "Kamchatka"
+  ],
+  "Maharashtra": [
+    "Madhya Pradesh",
+    "Chhattisgarh",
+    "Telangana",
+    "Gujarat",
+    "Karnataka"
+  ],
+  "Sakhalin": [],
+  "Zaporizhzhya": [
+    "Donets'k",
+    "Kherson",
+    "Dnipropetrovs'k"
+  ],
+  "Mykolayiv": [
+    "Odessa",
+    "Kherson",
+    "Dnipropetrovs'k",
+    "Kirovohrad"
+  ],
+  "Highland": [
+    "Aberdeenshire",
+    "East Ayrshire"
+  ],
+  "Chukchi Autonomous Okrug": [
+    "Maga Buryatdan",
+    "Sakha (Yakutia)",
+    "Kamchatka"
+  ],
+  "Austurland": [
+    "Suðurland",
+    "Norðurland eystra"
+  ],
+  "Suðurland": [
+    "Austurland",
+    "Norðurland vestra",
+    "Norðurland eystra",
+    "Vesturland"
+  ],
+  "Vestfirðir": [
+    "Norðurland vestra",
+    "Vesturland"
+  ],
+  "Norðurland vestra": [
+    "Suðurland",
+    "Vestfirðir",
+    "Norðurland eystra",
+    "Vesturland"
+  ],
+  "Norðurland eystra": [
+    "Austurland",
+    "Suðurland",
+    "Norðurland vestra"
+  ],
+  "Yamal-Nenets": [
+    "Nenets",
+    "Krasnoyarsk",
+    "Khanty-Mansiy",
+    "Komi"
+  ],
+  "Nenets": [
+    "Yamal-Nenets",
+    "Arkhangel'sk",
+    "Komi"
+  ],
+  "Northwest Territories": [
+    "British Columbia",
+    "Alberta",
+    "Saskatchewan",
+    "Manitoba",
+    "Yukon",
+    "Nunavut"
+  ],
+  "Sakha (Yakutia)": [
+    "Chita",
+    "Amur",
+    "Khabarovsk",
+    "Maga Buryatdan",
+    "Chukchi Autonomous Okrug",
+    "Krasnoyarsk",
+    "Irkutsk"
+  ],
+  "Västernorrland": [
+    "Västerbotten",
+    "Jämtland",
+    "Gävleborg"
+  ],
+  "Gävleborg": [
+    "Jämtland",
+    "Dalarna",
+    "Västernorrland",
+    "Västmanland"
+  ],
+  "Sogn og Fjordane": [
+    "Møre og Romsdal",
+    "Oppland",
+    "Hordaland",
+    "Buskerud"
+  ],
+  "Møre og Romsdal": [
+    "Sør-Trøndelag",
+    "Sogn og Fjordane",
+    "Oppland"
+  ],
+  "Arkhangel'sk": [
+    "Karelia",
+    "Nenets",
+    "Vologda",
+    "Kirov",
+    "Komi"
+  ],
+  "Krasnoyarsk": [
+    "Tuva",
+    "Yamal-Nenets",
+    "Sakha (Yakutia)",
+    "Khanty-Mansiy",
+    "Tomsk",
+    "Kemerovo",
+    "Irkutsk",
+    "Khakass"
+  ],
+  "Kommuneqarfik Sermersooq": [
+    "Nationalparken",
+    "Qeqqata Kommunia",
+    "Kommune Kujalleq",
+    "Qaasuitsup Kommunia"
+  ],
+  "Nationalparken": [
+    "Kommuneqarfik Sermersooq",
+    "Qaasuitsup Kommunia"
+  ],
+  "Qeqqata Kommunia": [
+    "Kommuneqarfik Sermersooq",
+    "Qaasuitsup Kommunia"
+  ],
+  "Kommune Kujalleq": [
+    "Kommuneqarfik Sermersooq"
+  ],
+  "443": [],
+  "Kalmyk": [
+    "Dagestan",
+    "Rostov",
+    "Astrakhan'",
+    "Volgograd",
+    "Stavropol'"
+  ],
+  "Tasmania": [],
+  "Kamchatka": [
+    "Maga Buryatdan",
+    "Chukchi Autonomous Okrug"
+  ],
+  "Svalbard": [],
+  "Southland": [
+    "Otago",
+    "West Coast"
+  ],
+  "Otago": [
+    "Southland",
+    "Canterbury",
+    "West Coast"
+  ],
+  "Canterbury": [
+    "Otago",
+    "West Coast"
+  ],
+  "Midlands": [
+    "Matabeleland North",
+    "Mashonaland West",
+    "Matabeleland South",
+    "Mashonaland East",
+    "Masvingo"
+  ],
+  "Guárico": [
+    "Bolívar",
+    "Apure",
+    "Táchira",
+    "Anzoátegui"
+  ],
+  "Poltava": [
+    "Chernihiv",
+    "Sumy",
+    "Kharkiv",
+    "Dnipropetrovs'k",
+    "Kiev",
+    "Kirovohrad"
+  ],
+  "Dnipropetrovs'k": [
+    "Kharkiv",
+    "Donets'k",
+    "Kherson",
+    "Zaporizhzhya",
+    "Mykolayiv",
+    "Poltava",
+    "Kirovohrad"
+  ],
+  "Jharkhand": [
+    "West Bengal",
+    "Bihar",
+    "Uttar Pradesh",
+    "Odisha",
+    "Chhattisgarh"
+  ],
+  "Madhya Pradesh": [
+    "Rajasthan",
+    "Uttar Pradesh",
+    "Maharashtra",
+    "Chhattisgarh",
+    "Gujarat"
+  ],
+  "Utah": [
+    "Idaho",
+    "Arizona",
+    "New Mexico",
+    "Wyoming",
+    "Nevada",
+    "Colorado"
+  ],
+  "Wyoming": [
+    "Idaho",
+    "Montana",
+    "Utah",
+    "Colorado",
+    "South Dakota",
+    "Nebraska"
+  ],
+  "Nevada": [
+    "Idaho",
+    "Arizona",
+    "California",
+    "Oregon",
+    "Utah"
+  ],
+  "Colorado": [
+    "Arizona",
+    "New Mexico",
+    "Utah",
+    "Wyoming",
+    "Nebraska",
+    "Kansas",
+    "Oklahoma"
+  ],
+  "South Dakota": [
+    "Montana",
+    "North Dakota",
+    "Minnesota",
+    "Wyoming",
+    "Nebraska",
+    "Iowa"
+  ],
+  "Nebraska": [
+    "Wyoming",
+    "Colorado",
+    "South Dakota",
+    "Kansas",
+    "Iowa",
+    "Missouri"
+  ],
+  "Kansas": [
+    "Colorado",
+    "Nebraska",
+    "Oklahoma",
+    "Missouri"
+  ],
+  "Oklahoma": [
+    "New Mexico",
+    "Texas",
+    "Colorado",
+    "Kansas",
+    "Missouri",
+    "Arkansas"
+  ],
+  "Iowa": [
+    "Minnesota",
+    "South Dakota",
+    "Nebraska",
+    "Missouri",
+    "Wisconsin",
+    "Illinois"
+  ],
+  "Missouri": [
+    "Nebraska",
+    "Kansas",
+    "Oklahoma",
+    "Iowa",
+    "Illinois",
+    "Kentucky",
+    "Arkansas",
+    "Tennessee"
+  ],
+  "Morogoro": [
+    "Lindi",
+    "Ruvuma",
+    "Tanga",
+    "Manyara",
+    "Njombe",
+    "Singida"
+  ],
+  "Semnan": [
+    "Razavi Khorasan",
+    "Esfahan",
+    "Yazd",
+    "Mazandaran",
+    "Tehran"
+  ],
+  "North Kordufan": [
+    "Northern",
+    "North Darfur",
+    "South Kordufan",
+    "Gezira",
+    "White Nile",
+    "Eastern Darfur"
+  ],
+  "Ar Riyad": [
+    "Al Hudud ash Shamaliyah",
+    "Najran",
+    "Al Madinah",
+    "Makkah",
+    "Al Quassim",
+    "Ha'il",
+    "`Asir",
+    "Ash Sharqiyah"
+  ],
+  "Al Quassim": [
+    "Al Madinah",
+    "Ar Riyad",
+    "Ha'il"
+  ],
+  "Ha'il": [
+    "Al Hudud ash Shamaliyah",
+    "Al Jawf",
+    "Tabuk",
+    "Al Madinah",
+    "Ar Riyad",
+    "Al Quassim"
+  ],
+  "Oppland": [
+    "Sør-Trøndelag",
+    "Hedmark",
+    "Sogn og Fjordane",
+    "Møre og Romsdal",
+    "Buskerud"
+  ],
+  "Cusco": [
+    "Madre de Dios",
+    "Ucayali",
+    "Puno",
+    "Arequipa",
+    "Ayacucho",
+    "Junín"
+  ],
+  "San Martín": [
+    "Loreto",
+    "La Libertad",
+    "Huánuco",
+    "Amazonas"
+  ],
+  "Sachsen-Anhalt": [
+    "Niedersachsen",
+    "Brandenburg",
+    "Sachsen",
+    "Hessen"
+  ],
+  "Caquetá": [
+    "Vaupés",
+    "Amazonas",
+    "Guaviare",
+    "Meta",
+    "Cauca",
+    "Nariño",
+    "Cundinamarca"
+  ],
+  "Guaviare": [
+    "Guainía",
+    "Vaupés",
+    "Vichada",
+    "Caquetá",
+    "Meta"
+  ],
+  "Meta": [
+    "Vichada",
+    "Caquetá",
+    "Guaviare",
+    "Casanare",
+    "Cundinamarca",
+    "Zulia"
+  ],
+  "Kasaï-Oriental": [
+    "Équateur",
+    "Orientale",
+    "Katanga",
+    "Kasaï-Occidental",
+    "Maniema"
+  ],
+  "Maniema": [
+    "Orientale",
+    "Sud-Kivu",
+    "Katanga",
+    "Nord-Kivu",
+    "Kasaï-Oriental"
+  ],
+  "Sichuan": [
+    "Xizang",
+    "Gansu",
+    "Yunnan",
+    "Chongqing",
+    "Guizhou",
+    "Shaanxi",
+    "Qinghai"
+  ],
+  "Chongqing": [
+    "Sichuan",
+    "Guizhou",
+    "Hunan",
+    "Shaanxi",
+    "Hubei"
+  ],
+  "Guizhou": [
+    "Yunnan",
+    "Guangxi",
+    "Sichuan",
+    "Chongqing",
+    "Hunan"
+  ],
+  "Hunan": [
+    "Guangxi",
+    "Chongqing",
+    "Guizhou",
+    "Jiangxi",
+    "Hubei",
+    "Guangdong"
+  ],
+  "Ningxia": [
+    "Inner Mongol",
+    "Gansu",
+    "Shaanxi"
+  ],
+  "Shaanxi": [
+    "Inner Mongol",
+    "Gansu",
+    "Sichuan",
+    "Chongqing",
+    "Ningxia",
+    "Shanxi",
+    "Henan",
+    "Hubei"
+  ],
+  "Qinghai": [
+    "Xinjiang",
+    "Xizang",
+    "Gansu",
+    "Sichuan"
+  ],
+  "Shanxi": [
+    "Inner Mongol",
+    "Shaanxi",
+    "Henan",
+    "Hebei"
+  ],
+  "Jiangxi": [
+    "Fujian",
+    "Hunan",
+    "Hubei",
+    "Anhui",
+    "Guangdong",
+    "Zhejiang"
+  ],
+  "Henan": [
+    "Shandong",
+    "Shaanxi",
+    "Shanxi",
+    "Hubei",
+    "Anhui",
+    "Hebei"
+  ],
+  "Hubei": [
+    "Chongqing",
+    "Hunan",
+    "Shaanxi",
+    "Jiangxi",
+    "Henan",
+    "Anhui"
+  ],
+  "Anhui": [
+    "Jiangsu",
+    "Shandong",
+    "Jiangxi",
+    "Henan",
+    "Hubei",
+    "Zhejiang"
+  ],
+  "Barh El Gazel": [
+    "Borkou",
+    "Kanem",
+    "Batha",
+    "Hadjer-Lamis"
+  ],
+  "Guéra": [
+    "Salamat",
+    "Batha",
+    "Hadjer-Lamis",
+    "Sila",
+    "Chari-Baguirmi",
+    "Ouham"
+  ],
+  "Batha": [
+    "Borkou",
+    "Barh El Gazel",
+    "Guéra",
+    "Hadjer-Lamis",
+    "Sila",
+    "Wadi Fira"
+  ],
+  "Centre": [
+    "Adamaoua",
+    "Est",
+    "Sud-Ouest",
+    "Wouleu-Ntem"
+  ],
+  "Minas Gerais": [
+    "Mato Grosso do Sul",
+    "Bahia",
+    "Espírito Santo",
+    "Rio de Janeiro",
+    "São Paulo",
+    "Goiás"
+  ],
+  "Tocantins": [
+    "Pará",
+    "Mato Grosso",
+    "Maranhão",
+    "Piauí",
+    "Bahia",
+    "Goiás"
+  ],
+  "Cochabamba": [
+    "La Paz",
+    "Oruro",
+    "Potosí",
+    "Santa Cruz",
+    "Chuquisaca",
+    "El Beni"
+  ],
+  "Santa Fe": [
+    "Entre Ríos",
+    "Chaco",
+    "Corrientes",
+    "Santiago del Estero",
+    "Córdoba",
+    "Buenos Aires"
+  ],
+  "Santiago del Estero": [
+    "Salta",
+    "Chaco",
+    "Santa Fe",
+    "Córdoba",
+    "Catamarca"
+  ],
+  "San Luis": [
+    "La Rioja",
+    "San Juan",
+    "Mendoza",
+    "La Pampa",
+    "Córdoba"
+  ],
+  "La Pampa": [
+    "Mendoza",
+    "Neuquén",
+    "Río Negro",
+    "San Luis",
+    "Córdoba",
+    "Buenos Aires"
+  ],
+  "Córdoba": [
+    "La Rioja",
+    "Santa Fe",
+    "Santiago del Estero",
+    "San Luis",
+    "La Pampa",
+    "Buenos Aires",
+    "Catamarca"
+  ],
+  "Bié": [
+    "Cuando Cubango",
+    "Moxico",
+    "Malanje",
+    "Lunda Sul",
+    "Cuanza Sul",
+    "Huíla",
+    "Benguela"
+  ],
+  "Huíla": [
+    "Cuando Cubango",
+    "Namibe",
+    "Cunene",
+    "Bié",
+    "Benguela"
+  ],
+  "El Bayadh": [
+    "Adrar",
+    "Béchar",
+    "Ghardaïa",
+    "Tiaret",
+    "Djelfa",
+    "Mascara"
+  ],
+  "Ghardaïa": [
+    "Adrar",
+    "Tamanghasset",
+    "Ouargla",
+    "El Bayadh",
+    "Djelfa"
+  ],
+  "Konya": [
+    "Kirsehir",
+    "Mersin",
+    "Denizli",
+    "Kastamonu",
+    "Afyonkarahisar"
+  ],
+  "Tabora": [
+    "Mbeya",
+    "Singida",
+    "Kigoma",
+    "Rukwa"
+  ],
+  "Bashkortostan": [
+    "Chelyabinsk",
+    "Orenburg",
+    "Sverdlovsk",
+    "Tatarstan",
+    "Udmurt",
+    "Perm'"
+  ],
+  "Sverdlovsk": [
+    "Tyumen'",
+    "Kurgan",
+    "Chelyabinsk",
+    "Bashkortostan",
+    "Khanty-Mansiy",
+    "Komi",
+    "Perm'"
+  ],
+  "Khanty-Mansiy": [
+    "Tyumen'",
+    "Yamal-Nenets",
+    "Krasnoyarsk",
+    "Sverdlovsk",
+    "Tomsk",
+    "Komi"
+  ],
+  "Lipetsk": [
+    "Kursk",
+    "Voronezh",
+    "Tambov",
+    "Orel",
+    "Ryazan'",
+    "Tula"
+  ],
+  "Tambov": [
+    "Voronezh",
+    "Saratov",
+    "Lipetsk",
+    "Penza",
+    "Ryazan'"
+  ],
+  "Tomsk": [
+    "Tyumen'",
+    "Omsk",
+    "Novosibirsk",
+    "Krasnoyarsk",
+    "Khanty-Mansiy",
+    "Kemerovo"
+  ],
+  "Tatarstan": [
+    "Orenburg",
+    "Bashkortostan",
+    "Ul'yanovsk",
+    "Chuvash",
+    "Mariy-El",
+    "Kirov",
+    "Udmurt",
+    "Samara"
+  ],
+  "Ul'yanovsk": [
+    "Saratov",
+    "Tatarstan",
+    "Penza",
+    "Mordovia",
+    "Chuvash",
+    "Samara"
+  ],
+  "Penza": [
+    "Saratov",
+    "Tambov",
+    "Ul'yanovsk",
+    "Mordovia",
+    "Ryazan'"
+  ],
+  "Kemerovo": [
+    "Gorno-Altay",
+    "Novosibirsk",
+    "Altay",
+    "Krasnoyarsk",
+    "Tomsk",
+    "Khakass"
+  ],
+  "Orel": [
+    "Bryansk",
+    "Kursk",
+    "Lipetsk",
+    "Tula",
+    "Mosko"
+  ],
+  "Irkutsk": [
+    "Buryat",
+    "Tuva",
+    "Chita",
+    "Sakha (Yakutia)",
+    "Krasnoyarsk"
+  ],
+  "Khakass": [
+    "Gorno-Altay",
+    "Tuva",
+    "Krasnoyarsk",
+    "Kemerovo"
+  ],
+  "Mordovia": [
+    "Ul'yanovsk",
+    "Penza",
+    "Ryazan'",
+    "Nizhegorod",
+    "Chuvash"
+  ],
+  "Kostroma": [
+    "Yaroslavl'",
+    "Ivanovo",
+    "Nizhegorod",
+    "Vologda",
+    "Kirov"
+  ],
+  "Yaroslavl'": [
+    "Kostroma",
+    "Vladimir",
+    "Ivanovo",
+    "Vologda",
+    "Tver'",
+    "Moskovskaya"
+  ],
+  "Vladimir": [
+    "Yaroslavl'",
+    "Ryazan'",
+    "Ivanovo",
+    "Nizhegorod",
+    "Moskovskaya"
+  ],
+  "Ryazan'": [
+    "Lipetsk",
+    "Tambov",
+    "Penza",
+    "Mordovia",
+    "Vladimir",
+    "Nizhegorod",
+    "Tula",
+    "Moskovskaya"
+  ],
+  "Ivanovo": [
+    "Kostroma",
+    "Yaroslavl'",
+    "Vladimir",
+    "Nizhegorod"
+  ],
+  "Nizhegorod": [
+    "Mordovia",
+    "Kostroma",
+    "Vladimir",
+    "Ryazan'",
+    "Ivanovo",
+    "Chuvash",
+    "Mariy-El",
+    "Kirov"
+  ],
+  "Tula": [
+    "Lipetsk",
+    "Orel",
+    "Ryazan'",
+    "Moskovskaya",
+    "Mosko"
+  ],
+  "Chuvash": [
+    "Tatarstan",
+    "Ul'yanovsk",
+    "Mordovia",
+    "Nizhegorod",
+    "Mariy-El"
+  ],
+  "Vologda": [
+    "Karelia",
+    "Arkhangel'sk",
+    "Kostroma",
+    "Yaroslavl'",
+    "Novgorod",
+    "Tver'",
+    "Kirov",
+    "Leningrad"
+  ],
+  "Novgorod": [
+    "Pskov",
+    "Vologda",
+    "Tver'",
+    "Leningrad"
+  ],
+  "Tver'": [
+    "Pskov",
+    "Smolensk",
+    "Yaroslavl'",
+    "Vologda",
+    "Novgorod",
+    "Moskovskaya"
+  ],
+  "Moskovskaya": [
+    "Smolensk",
+    "Yaroslavl'",
+    "Vladimir",
+    "Ryazan'",
+    "Tula",
+    "Tver'",
+    "Mosko"
+  ],
+  "Mariy-El": [
+    "Tatarstan",
+    "Nizhegorod",
+    "Chuvash",
+    "Kirov"
+  ],
+  "Kirov": [
+    "Arkhangel'sk",
+    "Tatarstan",
+    "Kostroma",
+    "Nizhegorod",
+    "Vologda",
+    "Mariy-El",
+    "Udmurt",
+    "Komi",
+    "Perm'"
+  ],
+  "Udmurt": [
+    "Bashkortostan",
+    "Tatarstan",
+    "Kirov",
+    "Perm'"
+  ],
+  "Komi": [
+    "Yamal-Nenets",
+    "Nenets",
+    "Arkhangel'sk",
+    "Sverdlovsk",
+    "Khanty-Mansiy",
+    "Kirov",
+    "Perm'"
+  ],
+  "Perm'": [
+    "Bashkortostan",
+    "Sverdlovsk",
+    "Kirov",
+    "Udmurt",
+    "Komi"
+  ],
+  "Samara": [
+    "Orenburg",
+    "West Kazakhstan",
+    "Saratov",
+    "Tatarstan",
+    "Ul'yanovsk"
+  ],
+  "Stavropol'": [
+    "Dagestan",
+    "Rostov",
+    "Kalmyk",
+    "Krasnodar",
+    "Mtskheta-Mtianeti",
+    "Karachay-Cherkess"
+  ],
+  "Masovian": [
+    "Podlachian",
+    "Warmian-Masurian",
+    "Lublin",
+    "Silesian",
+    "Kuyavian-Pomeranian"
+  ],
+  "Greater Poland": [
+    "West Pomeranian",
+    "Pomeranian",
+    "Sachsen",
+    "Kuyavian-Pomeranian",
+    "Žilinský"
+  ],
+  "Arhangay": [
+    "Bayanhongor",
+    "Hövsgöl",
+    "Bulgan",
+    "Dzavhan",
+    "Övörhangay"
+  ],
+  "Dundgovi": [
+    "Dornogovi",
+    "Ömnögovi",
+    "Övörhangay",
+    "Töv"
+  ],
+  "Övörhangay": [
+    "Bayanhongor",
+    "Ömnögovi",
+    "Bulgan",
+    "Arhangay",
+    "Dundgovi",
+    "Töv"
+  ],
+  "San Luis Potosí": [
+    "Coahuila",
+    "Tamaulipas",
+    "Nuevo León",
+    "Veracruz",
+    "Jalisco",
+    "Zacatecas",
+    "Hidalgo"
+  ],
+  "Durango": [
+    "Chihuahua",
+    "Coahuila",
+    "Zacatecas",
+    "Sinaloa"
+  ],
+  "Tagant": [
+    "Adrar",
+    "Hodh ech Chargui",
+    "Hodh el Gharbi",
+    "Trarza",
+    "Assaba"
+  ],
+  "Mizdah": [
+    "Ghadamis",
+    "Ash Shati'",
+    "Misratah",
+    "Al Jufrah",
+    "Tataouine"
+  ],
+  "Al Jufrah": [
+    "Al Kufrah",
+    "Murzuq",
+    "Ajdabiya",
+    "Ash Shati'",
+    "Surt",
+    "Misratah",
+    "Mizdah",
+    "Wadi al Hayaa"
+  ],
+  "Qaraghandy": [
+    "East Kazakhstan",
+    "Zhambyl",
+    "South Kazakhstan",
+    "Aqtöbe",
+    "Qostanay",
+    "Pavlodar",
+    "Almaty",
+    "Aqmola",
+    "Qyzylorda"
+  ],
+  "Esfahan": [
+    "Khuzestan",
+    "Semnan",
+    "Fars",
+    "Yazd",
+    "Chahar Mahall and Bakhtiari",
+    "Lorestan",
+    "Tehran"
+  ],
+  "Fars": [
+    "Hormozgan",
+    "Esfahan",
+    "Kerman",
+    "Yazd",
+    "Chahar Mahall and Bakhtiari"
+  ],
+  "Kerman": [
+    "South Khorasan",
+    "Sistan and Baluchestan",
+    "Hormozgan",
+    "Fars",
+    "Yazd"
+  ],
+  "Yazd": [
+    "Razavi Khorasan",
+    "South Khorasan",
+    "Semnan",
+    "Esfahan",
+    "Fars",
+    "Kerman"
+  ],
+  "Chhattisgarh": [
+    "Uttar Pradesh",
+    "Odisha",
+    "Maharashtra",
+    "Jharkhand",
+    "Madhya Pradesh",
+    "Telangana"
+  ],
+  "Telangana": [
+    "Andhra Pradesh",
+    "Odisha",
+    "Maharashtra",
+    "Chhattisgarh",
+    "Karnataka"
+  ],
+  "Northern Savonia": [
+    "Northern Ostrobothnia",
+    "Kainuu",
+    "North Karelia",
+    "Southern Savonia",
+    "Central Finland"
+  ],
+  "Southern Savonia": [
+    "North Karelia",
+    "Northern Savonia",
+    "Central Finland",
+    "Päijät-Häme"
+  ],
+  "Central Finland": [
+    "Northern Ostrobothnia",
+    "Northern Savonia",
+    "Southern Savonia",
+    "Southern Ostrobothnia",
+    "Pirkanmaa",
+    "Päijät-Häme",
+    "Ostrobothnia"
+  ],
+  "Southern Ostrobothnia": [
+    "Central Finland",
+    "Pirkanmaa",
+    "Ostrobothnia"
+  ],
+  "Pirkanmaa": [
+    "Central Finland",
+    "Southern Ostrobothnia",
+    "Päijät-Häme",
+    "Finland Proper",
+    "Ostrobothnia"
+  ],
+  "Wisconsin": [
+    "Minnesota",
+    "Michigan",
+    "Iowa",
+    "Illinois"
+  ],
+  "Illinois": [
+    "Michigan",
+    "Iowa",
+    "Missouri",
+    "Wisconsin",
+    "Kentucky",
+    "Indiana"
+  ],
+  "Kentucky": [
+    "Ohio",
+    "Virginia",
+    "Missouri",
+    "Illinois",
+    "Tennessee",
+    "West Virginia",
+    "Indiana"
+  ],
+  "Arkansas": [
+    "Texas",
+    "Louisiana",
+    "Mississippi",
+    "Oklahoma",
+    "Missouri",
+    "Tennessee"
+  ],
+  "Tennessee": [
+    "Mississippi",
+    "Alabama",
+    "Georgia",
+    "North Carolina",
+    "Virginia",
+    "Missouri",
+    "Kentucky",
+    "Arkansas"
+  ],
+  "West Virginia": [
+    "Ohio",
+    "Virginia",
+    "Kentucky",
+    "Maryland",
+    "Pennsylvania"
+  ],
+  "Indiana": [
+    "Michigan",
+    "Ohio",
+    "Illinois",
+    "Kentucky"
+  ],
+  "Central": [
+    "Muchinga",
+    "Eastern",
+    "Katanga",
+    "Southern",
+    "Western",
+    "North-Western",
+    "Mashonaland Central"
+  ],
+  "Oriental": [
+    "Béchar",
+    "Meknès - Tafilalet",
+    "Taza - Al Hoceima - Taounate",
+    "Mascara"
+  ],
+  "Niassa": [
+    "Cabo Delgado",
+    "Zambezia",
+    "Nampula",
+    "Ruvuma",
+    "Lilongwe",
+    "Mangochi"
+  ],
+  "Koulikoro": [
+    "Kayes",
+    "Ségou",
+    "Sikasso",
+    "Hodh ech Chargui",
+    "Hodh el Gharbi",
+    "Beyla"
+  ],
+  "Almaty": [
+    "Xinjiang",
+    "East Kazakhstan",
+    "Ysyk-Köl",
+    "Zhambyl",
+    "Qaraghandy",
+    "Tashkent"
+  ],
+  "Buenos Aires": [
+    "Entre Ríos",
+    "Río Negro",
+    "Santa Fe",
+    "La Pampa",
+    "Córdoba"
+  ],
+  "Gujarat": [
+    "Rajasthan",
+    "Sind",
+    "Maharashtra",
+    "Madhya Pradesh"
+  ],
+  "Tillabéri": [
+    "Tahoua",
+    "Gao",
+    "Kara",
+    "Dosso",
+    "Alibori",
+    "Bam"
+  ],
+  "Niedersachsen": [
+    "Nordrhein-Westfalen",
+    "Mecklenburg-Vorpommern",
+    "Sachsen-Anhalt",
+    "Brandenburg",
+    "Pays-Bas",
+    "Schleswig-Holstein",
+    "Hessen"
+  ],
+  "Guangdong": [
+    "Guangxi",
+    "Fujian",
+    "Hunan",
+    "Jiangxi"
+  ],
+  "K.P.": [
+    "Northern Areas",
+    "Badakhshan",
+    "Punjab",
+    "Jammu and Kashmir",
+    "Parwan",
+    "Kabul",
+    "Nangarhar"
+  ],
+  "Crimea": [
+    "Kherson"
+  ],
+  "Minsk": [
+    "Gomel",
+    "Brest",
+    "Vitebsk",
+    "Grodno",
+    "Mogilev"
+  ],
+  "Trarza": [
+    "Adrar",
+    "Tagant",
+    "Inchiri",
+    "Assaba",
+    "Matam"
+  ],
+  "Haryana": [
+    "Uttarakhand",
+    "Punjab",
+    "Rajasthan",
+    "Himachal Pradesh",
+    "Uttar Pradesh"
+  ],
+  "Oromiya": [
+    "Southern Nations, Nationalities and Peoples",
+    "Afar",
+    "Amhara",
+    "Somali",
+    "Eastern",
+    "Upper Nile",
+    "Benshangul-Gumaz"
+  ],
+  "Somali": [
+    "Somaliland",
+    "Afar",
+    "North-Eastern",
+    "Oromiya",
+    "Eastern",
+    "Hiiraan",
+    "Mudug",
+    "Galguduud",
+    "Jubbada Hoose",
+    "Semenawi Keyih Bahri"
+  ],
+  "Brandenburg": [
+    "West Pomeranian",
+    "Mecklenburg-Vorpommern",
+    "Sachsen-Anhalt",
+    "Niedersachsen",
+    "Sachsen"
+  ],
+  "Aqmola": [
+    "North Kazakhstan",
+    "Qostanay",
+    "Pavlodar",
+    "Qaraghandy"
+  ],
+  "Ladakh": [
+    "Xinjiang",
+    "Xizang",
+    "Northern Areas",
+    "Himachal Pradesh",
+    "Jammu and Kashmir"
+  ],
+  "New South Wales": [
+    "South Australia",
+    "Queensland",
+    "Victoria"
+  ],
+  "Karnataka": [
+    "Andhra Pradesh",
+    "Maharashtra",
+    "Telangana",
+    "Tamil Nadu"
+  ],
+  "Kiev": [
+    "Chernihiv",
+    "Gomel",
+    "Zhytomyr",
+    "Vinnytsya",
+    "Poltava",
+    "Kirovohrad"
+  ],
+  "Sarawak": [
+    "Kalimantan Timur",
+    "Sabah",
+    "Kalimantan Barat"
+  ],
+  "Matabeleland South": [
+    "Matabeleland North",
+    "Limpopo",
+    "Midlands",
+    "Central",
+    "Masvingo"
+  ],
+  "Goiás": [
+    "Mato Grosso do Sul",
+    "Mato Grosso",
+    "Bahia",
+    "Minas Gerais",
+    "Tocantins"
+  ],
+  "Zacatecas": [
+    "Coahuila",
+    "Nuevo León",
+    "Jalisco",
+    "San Luis Potosí",
+    "Durango",
+    "Sinaloa",
+    "Hidalgo"
+  ],
+  "Michoacán": [
+    "Jalisco",
+    "Guerrero",
+    "Puebla",
+    "Hidalgo"
+  ],
+  "Telemark": [
+    "Aust-Agder",
+    "Hordaland",
+    "Buskerud"
+  ],
+  "Leningrad": [
+    "Pskov",
+    "Karelia",
+    "Vologda",
+    "Novgorod",
+    "Ida-Viru",
+    "Päijät-Häme"
+  ],
+  "Mosko": [
+    "Smolensk",
+    "Bryansk",
+    "Orel",
+    "Tula",
+    "Moskovskaya"
+  ],
+  "Selenge": [
+    "Buryat",
+    "Bulgan",
+    "Chita",
+    "Hentiy",
+    "Töv"
+  ],
+  "Maryland": [
+    "Virginia",
+    "West Virginia",
+    "Pennsylvania"
+  ],
+  "Vesturland": [
+    "Suðurland",
+    "Vestfirðir",
+    "Norðurland vestra"
+  ],
+  "Töv": [
+    "Dornogovi",
+    "Bulgan",
+    "Hentiy",
+    "Dundgovi",
+    "Övörhangay",
+    "Selenge"
+  ],
+  "Zhejiang": [
+    "Fujian",
+    "Jiangsu",
+    "Jiangxi",
+    "Anhui"
+  ],
+  "`Asir": [
+    "Najran",
+    "Makkah",
+    "Ar Riyad",
+    "Jizan"
+  ],
+  "Qaasuitsup Kommunia": [
+    "Kommuneqarfik Sermersooq",
+    "Nationalparken",
+    "Qeqqata Kommunia"
+  ],
+  "Bukhoro": [
+    "Chardzhou",
+    "Karakalpakstan",
+    "Navoi",
+    "Tashauz",
+    "Jizzakh"
+  ],
+  "Qyzylorda": [
+    "South Kazakhstan",
+    "Karakalpakstan",
+    "Aqtöbe",
+    "Navoi",
+    "Qaraghandy"
+  ],
+  "Ash Sharqiyah": [
+    "Abu Dhabi",
+    "Al-Muthannia",
+    "Al Hudud ash Shamaliyah",
+    "Hadramawt",
+    "Dhofar",
+    "Al Wusta",
+    "Najran",
+    "Ar Riyad",
+    "Al Dhahira",
+    "Al-Basrah"
+  ],
+  "Manawatu-Wanganui": [
+    "Bay of Plenty",
+    "Waikato"
+  ],
+  "Nusa Tenggara Timur": [],
+  "Krasnodar": [
+    "Rostov",
+    "Stavropol'",
+    "Samtskhe-Javakheti",
+    "Karachay-Cherkess"
+  ],
+  "Ouaka": [
+    "Équateur",
+    "Haute-Kotto",
+    "Mbomou",
+    "Bamingui-Bangoran",
+    "Nana-Grébizi"
+  ],
+  "Jammu and Kashmir": [
+    "Northern Areas",
+    "Punjab",
+    "Punjab",
+    "Himachal Pradesh",
+    "K.P.",
+    "Ladakh"
+  ],
+  "Ruvuma": [
+    "Cabo Delgado",
+    "Lindi",
+    "Morogoro",
+    "Niassa",
+    "Lilongwe",
+    "Njombe"
+  ],
+  "Adamawa": [
+    "Borno",
+    "Nord",
+    "Adamaoua",
+    "Taraba",
+    "Chari-Baguirmi",
+    "Bauchi"
+  ],
+  "Bay": [
+    "Hiiraan",
+    "Galguduud",
+    "Jubbada Hoose"
+  ],
+  "Hertfordshire": [
+    "Wrexham",
+    "Cumbria",
+    "Buckinghamshire"
+  ],
+  "Anosy": [
+    "Atsimo-Andrefana",
+    "Ihorombe",
+    "Vatovavy-Fitovinany"
+  ],
+  "Inchiri": [
+    "Western Sahara",
+    "Adrar",
+    "Trarza"
+  ],
+  "Kronoberg": [
+    "Skåne",
+    "Jönköping"
+  ],
+  "Skåne": [
+    "Västra Götaland",
+    "Kronoberg",
+    "Jönköping"
+  ],
+  "Ha Noi": [
+    "Guangxi",
+    "Lào Cai"
+  ],
+  "Ad Dakhliyah": [
+    "Al Wusta",
+    "Al Dhahira",
+    "Muscat"
+  ],
+  "Piacenza": [
+    "Savona",
+    "Rome",
+    "Mantova",
+    "Bozen",
+    "Haute-Savoie"
+  ],
+  "Matanzas": [
+    "Camagüey"
+  ],
+  "Jizan": [
+    "Najran",
+    "Makkah",
+    "`Asir",
+    "Al Jawf",
+    "Shabwah"
+  ],
+  "Bío-Bío": [
+    "Neuquén",
+    "Maule",
+    "La Araucanía"
+  ],
+  "Kumamoto": [],
+  "Lampung": [
+    "Sumatera Selatan",
+    "Jambi"
+  ],
+  "Anambra": [
+    "Edo",
+    "Benue",
+    "Sud-Ouest"
+  ],
+  "Maputo": [
+    "Gaza",
+    "Mpumalanga",
+    "KwaZulu-Natal"
+  ],
+  "Ngounié": [
+    "Ogooué-Ivindo",
+    "Ogooué-Lolo"
+  ],
+  "Hadjer-Lamis": [
+    "Borno",
+    "Diffa",
+    "Kanem",
+    "Barh El Gazel",
+    "Guéra",
+    "Batha",
+    "Chari-Baguirmi"
+  ],
+  "Wadi al Hayaa": [
+    "Murzuq",
+    "Ash Shati'",
+    "Ghat",
+    "Al Jufrah"
+  ],
+  "Kavango": [
+    "North-West",
+    "Matabeleland North",
+    "Southern",
+    "Western",
+    "Cuando Cubango",
+    "Otjozondjupa",
+    "Omusati"
+  ],
+  "Ayacucho": [
+    "Arequipa",
+    "Cusco",
+    "Junín"
+  ],
+  "Van": [
+    "West Azarbaijan",
+    "Agri",
+    "Hasaka (Al Haksa)",
+    "Arbil",
+    "Ninawa"
+  ],
+  "Mpumalanga": [
+    "Free State",
+    "Limpopo",
+    "North West",
+    "Gaza",
+    "Maputo",
+    "KwaZulu-Natal"
+  ],
+  "Alagoas": [
+    "Pernambuco",
+    "Bahia"
+  ],
+  "Lilongwe": [
+    "Muchinga",
+    "Eastern",
+    "Tete",
+    "Niassa",
+    "Ruvuma",
+    "Njombe",
+    "Mangochi"
+  ],
+  "Marrakech - Tensift - Al Haouz": [
+    "Meknès - Tafilalet",
+    "Souss - Massa - Draâ",
+    "Chaouia - Ouardigha"
+  ],
+  "Gezira": [
+    "Gedarif",
+    "Northern",
+    "River Nile",
+    "Kassala",
+    "North Kordufan",
+    "White Nile"
+  ],
+  "Komoé": [
+    "Sikasso",
+    "Zanzan",
+    "Sissili",
+    "Worodougou"
+  ],
+  "Al Dhahira": [
+    "Abu Dhabi",
+    "Al Wusta",
+    "Ash Sharqiyah",
+    "Ad Dakhliyah",
+    "Muscat"
+  ],
+  "Northumberland": [
+    "Cumbria",
+    "East Ayrshire"
+  ],
+  "Hiroshima": [
+    "Ibaraki"
+  ],
+  "Jaén": [
+    "Ciudad Real",
+    "Albacete",
+    "Lisboa"
+  ],
+  "Mashonaland Central": [
+    "Eastern",
+    "Mashonaland West",
+    "Southern",
+    "Tete",
+    "Central",
+    "Mashonaland East"
+  ],
+  "Ouham-Pendé": [
+    "Nord",
+    "Adamaoua",
+    "Mambéré-Kadéï",
+    "Nana-Grébizi",
+    "Mayo-Kebbi Ouest",
+    "Ouham"
+  ],
+  "Loire": [
+    "Allier",
+    "Creuse",
+    "Gard",
+    "Gironde",
+    "Doubs",
+    "Aveyron",
+    "Isère"
+  ],
+  "Gafsa": [
+    "El Oued",
+    "Batna",
+    "Gabès",
+    "Le Kef"
+  ],
+  "Zapadno-Backi": [
+    "Pest",
+    "Arad",
+    "Timis",
+    "Trebinje",
+    "Sisacko-Moslavacka",
+    "Raški"
+  ],
+  "Atlántida": [
+    "Campeche",
+    "Francisco Morazán",
+    "Petén",
+    "Retalhuleu",
+    "Olancho",
+    "Quintana Roo"
+  ],
+  "Cauca": [
+    "Caquetá",
+    "Nariño",
+    "Cundinamarca"
+  ],
+  "Zadarska": [
+    "Trebinje",
+    "Sisacko-Moslavacka",
+    "Ptuj"
+  ],
+  "Pest": [
+    "Zapadno-Backi",
+    "Arad",
+    "Borsod-Abaúj-Zemplén",
+    "Hajdú-Bihar",
+    "Sisacko-Moslavacka",
+    "Ptuj",
+    "Banskobystrický",
+    "Raški"
+  ],
+  "Casanare": [
+    "Apure",
+    "Vichada",
+    "Meta",
+    "Cundinamarca",
+    "Zulia"
+  ],
+  "Bengo": [
+    "Uíge",
+    "Malanje",
+    "Cuanza Sul",
+    "Bas-Congo"
+  ],
+  "Edo": [
+    "Anambra",
+    "Ondo",
+    "Benue"
+  ],
+  "Macerata": [
+    "Chieti",
+    "Rome",
+    "Mantova"
+  ],
+  "Kayseri": [
+    "Ar Raqqah",
+    "Mersin",
+    "Kastamonu",
+    "Sivas"
+  ],
+  "Maule": [
+    "Mendoza",
+    "Neuquén",
+    "Bío-Bío",
+    "Coquimbo"
+  ],
+  "Bay of Plenty": [
+    "Manawatu-Wanganui",
+    "Waikato"
+  ],
+  "Ariège": [
+    "Zaragoza",
+    "Valencia",
+    "Aveyron"
+  ],
+  "Kärnten": [
+    "Bayern",
+    "Steiermark",
+    "Ptuj",
+    "Bozen",
+    "Oberösterreich"
+  ],
+  "Lima": [
+    "Ucayali",
+    "Huánuco",
+    "Junín"
+  ],
+  "Camagüey": [
+    "Matanzas"
+  ],
+  "Mwanza": [
+    "Kagera",
+    "Manyara",
+    "Singida",
+    "Kigoma"
+  ],
+  "Quinara": [
+    "Ziguinchor",
+    "Northern",
+    "Gaoual"
+  ],
+  "Nakhon Si Thammarat": [
+    "Lop Buri",
+    "Perak"
+  ],
+  "Ihorombe": [
+    "Atsimo-Andrefana",
+    "Anosy",
+    "Vatovavy-Fitovinany"
+  ],
+  "Kalangala": [
+    "Gitega",
+    "Kagera",
+    "Western",
+    "Kibale"
+  ],
+  "Francisco Morazán": [
+    "Atlántida",
+    "Retalhuleu",
+    "Jinotega",
+    "Olancho"
+  ],
+  "Agri": [
+    "West Azarbaijan",
+    "Van",
+    "Bingöl",
+    "Hasaka (Al Haksa)",
+    "Kakheti",
+    "Giresun",
+    "Xocavənd"
+  ],
+  "Ilam": [
+    "Khuzestan",
+    "An-Najaf",
+    "Lorestan",
+    "Al-Basrah",
+    "Diyala"
+  ],
+  "Marne": [
+    "Doubs",
+    "Paris",
+    "Meuse",
+    "Luxembourg",
+    "Haute-Savoie"
+  ],
+  "Sylhet": [
+    "Assam",
+    "Dhaka",
+    "Rakhine",
+    "Manipur"
+  ],
+  "M'Sila": [
+    "Bouira",
+    "Tiaret",
+    "Batna",
+    "Djelfa",
+    "Le Kef"
+  ],
+  "Vrancea": [
+    "Odessa",
+    "Botosani",
+    "Silistra",
+    "Iasi",
+    "Mures"
+  ],
+  "Peloponnisos": [
+    "Korçë",
+    "Thessalia"
+  ],
+  "Aberdeenshire": [
+    "Highland",
+    "East Ayrshire"
+  ],
+  "Nariño": [
+    "Amazonas",
+    "Loreto",
+    "Caquetá",
+    "Cauca",
+    "Orellana",
+    "Guayas"
+  ],
+  "Nagano": [
+    "Ibaraki",
+    "Yamagata"
+  ],
+  "Gampaha": [],
+  "Toledo": [
+    "Ciudad Real",
+    "Badajoz",
+    "Bizkaia",
+    "Valladolid"
+  ],
+  "Akita": [
+    "Yamagata"
+  ],
+  "Savona": [
+    "Piacenza",
+    "Isère",
+    "Haute-Savoie"
+  ],
+  "Waikato": [
+    "Manawatu-Wanganui",
+    "Bay of Plenty"
+  ],
+  "Upper Nile": [
+    "Southern Nations, Nationalities and Peoples",
+    "Jonglei",
+    "South Kordufan",
+    "Oromiya",
+    "Unity",
+    "White Nile",
+    "Benshangul-Gumaz"
+  ],
+  "Yambol": [
+    "Silistra",
+    "Tekirdag",
+    "Teleorman",
+    "Istanbul"
+  ],
+  "Sulawesi Tengah": [
+    "Sulawesi Selatan"
+  ],
+  "Hiiraan": [
+    "Somali",
+    "Bay",
+    "Galguduud",
+    "Jubbada Hoose"
+  ],
+  "An Giang": [
+    "Môndól Kiri",
+    "Preah Vihéar"
+  ],
+  "An Nabatiyah": [
+    "Homs (Hims)",
+    "Ar Raqqah",
+    "Balqa"
+  ],
+  "Malatya": [
+    "Bingöl",
+    "Samtskhe-Javakheti",
+    "Giresun",
+    "Sivas"
+  ],
+  "Wrexham": [
+    "Hertfordshire",
+    "Worcestershire",
+    "Cumbria",
+    "Buckinghamshire"
+  ],
+  "Haut-Sassandra": [
+    "Faranah",
+    "Worodougou",
+    "Marahoué",
+    "Beyla"
+  ],
+  "Midtjylland": [
+    "Schleswig-Holstein"
+  ],
+  "Madang": [
+    "Southern Highlands",
+    "Morobe",
+    "East Sepik"
+  ],
+  "Petén": [
+    "Campeche",
+    "Chiapas",
+    "Veracruz",
+    "Atlántida",
+    "Retalhuleu"
+  ],
+  "Uttaradit": [
+    "Shan",
+    "Louang Namtha",
+    "Kanchanaburi",
+    "Chiang Mai",
+    "Pathum Thani"
+  ],
+  "Atlántico Norte": [
+    "Jinotega",
+    "Olancho"
+  ],
+  "Samsun": [
+    "Giresun",
+    "Kastamonu",
+    "Sivas"
+  ],
+  "Kildare": [
+    "Donegal",
+    "Cork"
+  ],
+  "Võru": [
+    "Pskov",
+    "Jõgeva",
+    "Rezeknes"
+  ],
+  "Arad": [
+    "Zapadno-Backi",
+    "Pest",
+    "Timis",
+    "Chernivtsi",
+    "Hajdú-Bihar",
+    "Mures",
+    "Dolj"
+  ],
+  "Parwan": [
+    "Badakhshan",
+    "K.P.",
+    "Balkh",
+    "Kabul",
+    "Bamyan"
+  ],
+  "Loire-Atlantique": [
+    "Côtes-d'Armor",
+    "Gironde",
+    "Orne"
+  ],
+  "Massachusetts": [
+    "New York",
+    "Vermont"
+  ],
+  "Vysočina": [
+    "Banskobystrický",
+    "Olomoucký",
+    "Oberösterreich"
+  ],
+  "Piura": [
+    "Guayas",
+    "La Libertad",
+    "Bolivar"
+  ],
+  "Aust-Agder": [
+    "Telemark",
+    "Hordaland"
+  ],
+  "Mambéré-Kadéï": [
+    "Adamaoua",
+    "Est",
+    "Ouham-Pendé",
+    "Nana-Grébizi",
+    "Sangha"
+  ],
+  "La Araucanía": [
+    "Neuquén",
+    "Los Lagos",
+    "Bío-Bío"
+  ],
+  "Chieti": [
+    "Macerata",
+    "Rome"
+  ],
+  "Gitega": [
+    "Sud-Kivu",
+    "Nord-Kivu",
+    "Kalangala",
+    "Kagera",
+    "Kigoma",
+    "Kibale"
+  ],
+  "Boulgou": [
+    "Northern",
+    "Sissili",
+    "Kara",
+    "Bam"
+  ],
+  "Mongar": [
+    "Xizang",
+    "Arunachal Pradesh",
+    "West Bengal",
+    "Assam",
+    "Lumbini"
+  ],
+  "Bheri": [
+    "Xizang",
+    "Uttarakhand",
+    "Uttar Pradesh",
+    "Lumbini"
+  ],
+  "Silesian": [
+    "Lublin",
+    "Masovian",
+    "Lesser Poland",
+    "L'viv",
+    "Kuyavian-Pomeranian",
+    "Žilinský"
+  ],
+  "Kayin": [
+    "Shan",
+    "Kanchanaburi",
+    "Chiang Mai",
+    "Mandalay"
+  ],
+  "Botosani": [
+    "Vinnytsya",
+    "Vrancea",
+    "Chernivtsi",
+    "Iasi",
+    "Mures"
+  ],
+  "Ondo": [
+    "Edo",
+    "Zou",
+    "Benue",
+    "Collines"
+  ],
+  "Bingöl": [
+    "Agri",
+    "Malatya",
+    "Sanliurfa",
+    "Hasaka (Al Haksa)",
+    "Giresun",
+    "Sivas"
+  ],
+  "Ida-Viru": [
+    "Pskov",
+    "Leningrad",
+    "Jõgeva"
+  ],
+  "Kirsehir": [
+    "Konya",
+    "Istanbul",
+    "Kastamonu",
+    "Afyonkarahisar"
+  ],
+  "Zaragoza": [
+    "Ariège",
+    "Gironde",
+    "Bizkaia",
+    "Valencia",
+    "Aveyron"
+  ],
+  "Nassarawa": [
+    "Niger",
+    "Taraba",
+    "Benue",
+    "Jigawa",
+    "Bauchi"
+  ],
+  "Dhaka": [
+    "Assam",
+    "Sylhet",
+    "Rakhine",
+    "Rajshahi"
+  ],
+  "Zou": [
+    "Ondo",
+    "Collines"
+  ],
+  "Taza - Al Hoceima - Taounate": [
+    "Meknès - Tafilalet",
+    "Oriental",
+    "Chaouia - Ouardigha"
+  ],
+  "Bouira": [
+    "M'Sila",
+    "Tiaret",
+    "Le Kef",
+    "Mascara"
+  ],
+  "Worcestershire": [
+    "Wrexham",
+    "Buckinghamshire"
+  ],
+  "Lugo": [
+    "Salamanca",
+    "Valladolid",
+    "Aveiro"
+  ],
+  "Catamarca": [
+    "Antofagasta",
+    "Salta",
+    "Atacama",
+    "La Rioja",
+    "Santiago del Estero",
+    "Córdoba"
+  ],
+  "An-Najaf": [
+    "Al-Muthannia",
+    "Al Hudud ash Shamaliyah",
+    "Al-Anbar",
+    "Ilam",
+    "Al-Basrah",
+    "Diyala"
+  ],
+  "Ferghana": [
+    "Tashkent",
+    "Tadzhikistan Territories",
+    "Jalal-Abad"
+  ],
+  "Zanzan": [
+    "Northern",
+    "Komoé",
+    "Sissili",
+    "Brong Ahafo",
+    "Worodougou",
+    "Marahoué"
+  ],
+  "Kagera": [
+    "Rift Valley",
+    "Mwanza",
+    "Kalangala",
+    "Gitega",
+    "Manyara",
+    "Western",
+    "Kigoma"
+  ],
+  "Ciudad Real": [
+    "Jaén",
+    "Toledo",
+    "Albacete",
+    "Badajoz",
+    "Bizkaia",
+    "Valencia",
+    "Lisboa"
+  ],
+  "Sanliurfa": [
+    "Bingöl",
+    "Hasaka (Al Haksa)",
+    "Ar Raqqah",
+    "Sivas"
+  ],
+  "Alytaus": [
+    "Vitebsk",
+    "Grodno",
+    "Podlachian",
+    "Warmian-Masurian",
+    "Panevezio",
+    "Kauno"
+  ],
+  "Côtes-d'Armor": [
+    "Loire-Atlantique",
+    "Orne"
+  ],
+  "Lara": [
+    "Táchira",
+    "Anzoátegui",
+    "Zulia"
+  ],
+  "Borsod-Abaúj-Zemplén": [
+    "Pest",
+    "Chernivtsi",
+    "Hajdú-Bihar",
+    "Lesser Poland",
+    "Banskobystrický",
+    "L'viv"
+  ],
+  "Orellana": [
+    "Loreto",
+    "Nariño",
+    "Guayas",
+    "Bolivar"
+  ],
+  "Saldus": [
+    "Šiauliai",
+    "Kauno"
+  ],
+  "Al Minya": [
+    "Northern",
+    "Al Bahr al Ahmar",
+    "Al Wadi at Jadid",
+    "Al Jizah"
+  ],
+  "Al Marj": [
+    "Al Butnan",
+    "Ajdabiya"
+  ],
+  "Allier": [
+    "Loire",
+    "Creuse",
+    "Doubs",
+    "Paris"
+  ],
+  "Silistra": [
+    "Odessa",
+    "Vrancea",
+    "Yambol",
+    "Teleorman",
+    "Mures"
+  ],
+  "Ziguinchor": [
+    "Quinara",
+    "Gaoual",
+    "Central River"
+  ],
+  "Hajigabul": [
+    "Dagestan",
+    "Qazvin",
+    "Xocavənd"
+  ],
+  "Benue": [
+    "Niger",
+    "Taraba",
+    "Anambra",
+    "Edo",
+    "Ondo",
+    "Nassarawa",
+    "Sud-Ouest",
+    "Collines"
+  ],
+  "Creuse": [
+    "Loire",
+    "Allier",
+    "Gironde",
+    "Orne",
+    "Paris"
+  ],
+  "Tekirdag": [
+    "Yambol",
+    "Teleorman",
+    "Istanbul",
+    "Kütahya",
+    "Anatoliki Makedonia kai Thraki"
+  ],
+  "Lavalleja": [
+    "Rio Grande do Sul",
+    "Salto",
+    "Tacuarembó"
+  ],
+  "Tiaret": [
+    "El Bayadh",
+    "M'Sila",
+    "Bouira",
+    "Djelfa",
+    "Mascara"
+  ],
+  "Chiriquí": [
+    "Chocó",
+    "Jinotega"
+  ],
+  "Samtskhe-Javakheti": [
+    "Krasnodar",
+    "Malatya",
+    "Kakheti",
+    "Giresun",
+    "Karachay-Cherkess"
+  ],
+  "Gangwon": [
+    "North Gyeongsang",
+    "P'yŏngan-namdo"
+  ],
+  "Korçë": [
+    "Peloponnisos",
+    "Thessalia",
+    "Prilep"
+  ],
+  "Teleorman": [
+    "Yambol",
+    "Silistra",
+    "Tekirdag",
+    "Nišavski",
+    "Mures",
+    "Dolj",
+    "Anatoliki Makedonia kai Thraki"
+  ],
+  "Mtskheta-Mtianeti": [
+    "Dagestan",
+    "Stavropol'",
+    "Kakheti",
+    "Karachay-Cherkess"
+  ],
+  "Champasak": [
+    "Môndól Kiri",
+    "Bântéay Méanchey",
+    "Preah Vihéar",
+    "Udon Thani"
+  ],
+  "Mudug": [
+    "Somaliland",
+    "Bari",
+    "Somali",
+    "Galguduud"
+  ],
+  "Zanjan": [
+    "West Azarbaijan",
+    "East Azarbaijan",
+    "Qazvin",
+    "Lorestan",
+    "Tehran",
+    "Diyala"
+  ],
+  "Batna": [
+    "El Oued",
+    "Gafsa",
+    "M'Sila",
+    "Djelfa",
+    "Le Kef"
+  ],
+  "Chocó": [
+    "Antioquia",
+    "Chiriquí",
+    "Cundinamarca"
+  ],
+  "Betsiboka": [
+    "Sofia",
+    "Melaky",
+    "Vatovavy-Fitovinany",
+    "Menabe",
+    "Atsinanana"
+  ],
+  "Sissili": [
+    "Northern",
+    "Mopti",
+    "Ségou",
+    "Sikasso",
+    "Komoé",
+    "Boulgou",
+    "Zanzan",
+    "Bam"
+  ],
+  "Steiermark": [
+    "Kärnten",
+    "Ptuj",
+    "Banskobystrický",
+    "Oberösterreich"
+  ],
+  "Đắk Lắk": [
+    "Môndól Kiri"
+  ],
+  "Faryab": [
+    "Chardzhou",
+    "Mary",
+    "Hirat",
+    "Ghor"
+  ],
+  "Chahar Mahall and Bakhtiari": [
+    "Khuzestan",
+    "Hormozgan",
+    "Esfahan",
+    "Fars"
+  ],
+  "Louang Namtha": [
+    "Yunnan",
+    "Shan",
+    "Uttaradit",
+    "Khon Kaen",
+    "Louangphrabang",
+    "Pathum Thani",
+    "Lào Cai"
+  ],
+  "Timis": [
+    "Zapadno-Backi",
+    "Arad",
+    "Nišavski",
+    "Dolj",
+    "Raški"
+  ],
+  "Canindeyú": [
+    "Mato Grosso do Sul",
+    "Paraná",
+    "Misiones",
+    "San Pedro"
+  ],
+  "Šiauliai": [
+    "Saldus",
+    "Panevezio",
+    "Kauno",
+    "Rezeknes"
+  ],
+  "Khammouan": [
+    "Khon Kaen",
+    "Louangphrabang",
+    "Udon Thani",
+    "Lào Cai"
+  ],
+  "Kara": [
+    "Northern",
+    "Tillabéri",
+    "Boulgou",
+    "Collines",
+    "Alibori",
+    "Bam"
+  ],
+  "Päijät-Häme": [
+    "Karelia",
+    "North Karelia",
+    "Southern Savonia",
+    "Central Finland",
+    "Pirkanmaa",
+    "Leningrad",
+    "Finland Proper"
+  ],
+  "Khatlon": [
+    "Gorno-Badakhshan",
+    "Badakhshan",
+    "Chardzhou",
+    "Balkh",
+    "Tadzhikistan Territories",
+    "Jizzakh"
+  ],
+  "Pays-Bas": [
+    "Nordrhein-Westfalen",
+    "Niedersachsen",
+    "Belgique"
+  ],
+  "Cesar": [
+    "Antioquia",
+    "Magdalena",
+    "Zulia"
+  ],
+  "Balkh": [
+    "Badakhshan",
+    "Chardzhou",
+    "Parwan",
+    "Khatlon",
+    "Bamyan",
+    "Ghor"
+  ],
+  "Môndól Kiri": [
+    "An Giang",
+    "Champasak",
+    "Đắk Lắk",
+    "Preah Vihéar"
+  ],
+  "Sud-Ouest": [
+    "Adamaoua",
+    "Taraba",
+    "Centre",
+    "Anambra",
+    "Benue",
+    "Wouleu-Ntem"
+  ],
+  "Sinaloa": [
+    "Sonora",
+    "Chihuahua",
+    "Jalisco",
+    "Durango",
+    "Zacatecas"
+  ],
+  "Chernivtsi": [
+    "Vinnytsya",
+    "Arad",
+    "Botosani",
+    "Borsod-Abaúj-Zemplén",
+    "Hajdú-Bihar",
+    "Khmel'nyts'kyy",
+    "Mures",
+    "L'viv"
+  ],
+  "Kanchanaburi": [
+    "Uttaradit",
+    "Kayin",
+    "Chiang Mai",
+    "Lop Buri",
+    "Mandalay",
+    "Pathum Thani"
+  ],
+  "Kabul": [
+    "K.P.",
+    "Parwan",
+    "Nangarhar",
+    "Bamyan"
+  ],
+  "Faranah": [
+    "Haut-Sassandra",
+    "Northern",
+    "Lofa",
+    "Gaoual",
+    "Beyla"
+  ],
+  "Puebla": [
+    "Veracruz",
+    "Guerrero",
+    "Oaxaca",
+    "Michoacán",
+    "Hidalgo"
+  ],
+  "Albacete": [
+    "Jaén",
+    "Ciudad Real",
+    "Valencia"
+  ],
+  "Nana-Grébizi": [
+    "Équateur",
+    "Bamingui-Bangoran",
+    "Ouaka",
+    "Ouham-Pendé",
+    "Mambéré-Kadéï",
+    "Sangha",
+    "Ouham"
+  ],
+  "Gabès": [
+    "El Oued",
+    "Gafsa",
+    "Le Kef",
+    "Tataouine"
+  ],
+  "Salto": [
+    "Entre Ríos",
+    "Rio Grande do Sul",
+    "Corrientes",
+    "Lavalleja",
+    "Tacuarembó"
+  ],
+  "Hamgyŏng-namdo": [
+    "Primor'ye",
+    "Jilin",
+    "P'yŏngan-namdo"
+  ],
+  "Hajdú-Bihar": [
+    "Pest",
+    "Arad",
+    "Borsod-Abaúj-Zemplén",
+    "Chernivtsi"
+  ],
+  "Khmel'nyts'kyy": [
+    "Rivne",
+    "Zhytomyr",
+    "Vinnytsya",
+    "Chernivtsi",
+    "L'viv"
+  ],
+  "Iasi": [
+    "Odessa",
+    "Vinnytsya",
+    "Vrancea",
+    "Botosani"
+  ],
+  "Nišavski": [
+    "Teleorman",
+    "Timis",
+    "Prilep",
+    "Dolj",
+    "Anatoliki Makedonia kai Thraki",
+    "Raški"
+  ],
+  "Bântéay Méanchey": [
+    "Champasak",
+    "Khon Kaen",
+    "Preah Vihéar",
+    "Udon Thani",
+    "Pathum Thani"
+  ],
+  "Hasaka (Al Haksa)": [
+    "Van",
+    "Agri",
+    "Bingöl",
+    "Sanliurfa",
+    "Ar Raqqah",
+    "Ninawa"
+  ],
+  "Brong Ahafo": [
+    "Northern",
+    "Western",
+    "Zanzan",
+    "Collines",
+    "Marahoué"
+  ],
+  "Rome": [
+    "Piacenza",
+    "Macerata",
+    "Chieti",
+    "Mantova"
+  ],
+  "Ar Raqqah": [
+    "Homs (Hims)",
+    "Kayseri",
+    "An Nabatiyah",
+    "Sanliurfa",
+    "Hasaka (Al Haksa)",
+    "Ninawa",
+    "Sivas"
+  ],
+  "Mantova": [
+    "Piacenza",
+    "Macerata",
+    "Rome",
+    "Bozen"
+  ],
+  "Sila": [
+    "Salamat",
+    "Guéra",
+    "Batha",
+    "Vakaga",
+    "Wadi Fira"
+  ],
+  "Mersin": [
+    "Konya",
+    "Kayseri",
+    "Denizli",
+    "Kastamonu"
+  ],
+  "Qazvin": [
+    "East Azarbaijan",
+    "Hajigabul",
+    "Zanjan",
+    "Mazandaran",
+    "Tehran",
+    "Xocavənd"
+  ],
+  "Gard": [
+    "Loire",
+    "Aveyron",
+    "Isère"
+  ],
+  "Melaky": [
+    "Sofia",
+    "Betsiboka",
+    "Menabe"
+  ],
+  "Dosso": [
+    "Tahoua",
+    "Tillabéri",
+    "Alibori",
+    "Zamfara"
+  ],
+  "Gironde": [
+    "Loire",
+    "Loire-Atlantique",
+    "Zaragoza",
+    "Creuse",
+    "Bizkaia",
+    "Orne",
+    "Aveyron"
+  ],
+  "Donegal": [
+    "Kildare"
+  ],
+  "Pennsylvania": [
+    "Ontario",
+    "Ohio",
+    "New York",
+    "West Virginia",
+    "Maryland"
+  ],
+  "Cork": [
+    "Kildare"
+  ],
+  "North Gyeongsang": [
+    "Gangwon"
+  ],
+  "Guayas": [
+    "Nariño",
+    "Piura",
+    "Orellana",
+    "Bolivar"
+  ],
+  "Mahaica-Berbice": [
+    "Guyane française",
+    "Sipaliwini",
+    "Roraima",
+    "Upper Demerara-Berbice",
+    "Pará",
+    "Upper Takutu-Upper Essequibo"
+  ],
+  "Tanga": [
+    "Rift Valley",
+    "Coast",
+    "Lindi",
+    "Morogoro",
+    "Manyara"
+  ],
+  "Badajoz": [
+    "Toledo",
+    "Ciudad Real",
+    "Salamanca",
+    "Lisboa",
+    "Valladolid",
+    "Aveiro"
+  ],
+  "Rakhine": [
+    "Sylhet",
+    "Dhaka",
+    "Manipur",
+    "Magway"
+  ],
+  "Thessalia": [
+    "Peloponnisos",
+    "Korçë",
+    "Prilep",
+    "Anatoliki Makedonia kai Thraki"
+  ],
+  "Cumbria": [
+    "Hertfordshire",
+    "Northumberland",
+    "Wrexham",
+    "East Ayrshire"
+  ],
+  "Cundinamarca": [
+    "Antioquia",
+    "Caquetá",
+    "Meta",
+    "Cauca",
+    "Casanare",
+    "Chocó",
+    "Zulia"
+  ],
+  "Schleswig-Holstein": [
+    "Mecklenburg-Vorpommern",
+    "Niedersachsen",
+    "Midtjylland"
+  ],
+  "Khon Kaen": [
+    "Louang Namtha",
+    "Khammouan",
+    "Bântéay Méanchey",
+    "Louangphrabang",
+    "Lop Buri",
+    "Udon Thani",
+    "Pathum Thani"
+  ],
+  "Sulawesi Selatan": [
+    "Sulawesi Tengah"
+  ],
+  "Aurora": [],
+  "Trebinje": [
+    "Zapadno-Backi",
+    "Zadarska",
+    "Sisacko-Moslavacka",
+    "Raški"
+  ],
+  "Prilep": [
+    "Korçë",
+    "Nišavski",
+    "Thessalia",
+    "Anatoliki Makedonia kai Thraki",
+    "Raški"
+  ],
+  "Sisacko-Moslavacka": [
+    "Zapadno-Backi",
+    "Zadarska",
+    "Pest",
+    "Trebinje",
+    "Ptuj"
+  ],
+  "Lorestan": [
+    "Khuzestan",
+    "Esfahan",
+    "Ilam",
+    "Zanjan",
+    "Tehran",
+    "Diyala"
+  ],
+  "Hidalgo": [
+    "Veracruz",
+    "Jalisco",
+    "San Luis Potosí",
+    "Zacatecas",
+    "Michoacán",
+    "Puebla"
+  ],
+  "La Libertad": [
+    "San Martín",
+    "Piura",
+    "Huánuco",
+    "Amazonas",
+    "Bolivar"
+  ],
+  "Hordaland": [
+    "Sogn og Fjordane",
+    "Telemark",
+    "Aust-Agder",
+    "Buskerud"
+  ],
+  "Benguela": [
+    "Namibe",
+    "Cuanza Sul",
+    "Bié",
+    "Huíla"
+  ],
+  "Kakheti": [
+    "Dagestan",
+    "Agri",
+    "Samtskhe-Javakheti",
+    "Mtskheta-Mtianeti",
+    "Giresun",
+    "Karachay-Cherkess",
+    "Xocavənd"
+  ],
+  "Istanbul": [
+    "Yambol",
+    "Kirsehir",
+    "Tekirdag",
+    "Kastamonu",
+    "Kütahya",
+    "Afyonkarahisar"
+  ],
+  "Mayo-Kebbi Ouest": [
+    "Nord",
+    "Ouham-Pendé",
+    "Chari-Baguirmi",
+    "Ouham"
+  ],
+  "Southern Highlands": [
+    "Western",
+    "Madang",
+    "Morobe",
+    "East Sepik"
+  ],
+  "Unity": [
+    "Western Bahr el Ghazal",
+    "Western Equatoria",
+    "Jonglei",
+    "South Kordufan",
+    "Upper Nile",
+    "Central Equatoria",
+    "Eastern Darfur"
+  ],
+  "Chiang Mai": [
+    "Shan",
+    "Uttaradit",
+    "Kayin",
+    "Kanchanaburi"
+  ],
+  "Lesser Poland": [
+    "Silesian",
+    "Borsod-Abaúj-Zemplén",
+    "Banskobystrický",
+    "L'viv",
+    "Žilinský"
+  ],
+  "Pahang": [
+    "Perak"
+  ],
+  "Doubs": [
+    "Loire",
+    "Marne",
+    "Allier",
+    "Paris",
+    "Isère",
+    "Haute-Savoie"
+  ],
+  "Jõgeva": [
+    "Pskov",
+    "Võru",
+    "Ida-Viru",
+    "Rezeknes"
+  ],
+  "Mashonaland East": [
+    "Mashonaland West",
+    "Tete",
+    "Midlands",
+    "Mashonaland Central",
+    "Masvingo"
+  ],
+  "Monagas": [
+    "Bolívar",
+    "Anzoátegui",
+    "Upper Takutu-Upper Essequibo"
+  ],
+  "Rajshahi": [
+    "West Bengal",
+    "Assam",
+    "Dhaka"
+  ],
+  "Tigray": [
+    "Afar",
+    "Amhara",
+    "Gedarif",
+    "Kassala",
+    "Semenawi Keyih Bahri"
+  ],
+  "Chari-Baguirmi": [
+    "Borno",
+    "Nord",
+    "Guéra",
+    "Adamawa",
+    "Hadjer-Lamis",
+    "Mayo-Kebbi Ouest",
+    "Ouham"
+  ],
+  "Ptuj": [
+    "Zadarska",
+    "Pest",
+    "Kärnten",
+    "Steiermark",
+    "Sisacko-Moslavacka",
+    "Banskobystrický"
+  ],
+  "Morobe": [
+    "Madang",
+    "Southern Highlands"
+  ],
+  "Tashkent": [
+    "Ysyk-Köl",
+    "Naryn",
+    "Zhambyl",
+    "South Kazakhstan",
+    "Almaty",
+    "Ferghana",
+    "Tadzhikistan Territories",
+    "Jizzakh",
+    "Jalal-Abad"
+  ],
+  "Ma`an": [
+    "Al Jawf",
+    "Balqa",
+    "Shamal Sina'"
+  ],
+  "Assaba": [
+    "Kayes",
+    "Adrar",
+    "Hodh el Gharbi",
+    "Tagant",
+    "Trarza",
+    "Matam"
+  ],
+  "Finland Proper": [
+    "Pirkanmaa",
+    "Päijät-Häme",
+    "Ostrobothnia"
+  ],
+  "Misiones": [
+    "Rio Grande do Sul",
+    "Corrientes",
+    "Paraná",
+    "Santa Catarina",
+    "Canindeyú",
+    "San Pedro"
+  ],
+  "Louangphrabang": [
+    "Louang Namtha",
+    "Khammouan",
+    "Khon Kaen",
+    "Lào Cai"
+  ],
+  "Collines": [
+    "Niger",
+    "Northern",
+    "Ondo",
+    "Zou",
+    "Benue",
+    "Kara",
+    "Brong Ahafo",
+    "Alibori"
+  ],
+  "Lofa": [
+    "Northern",
+    "Faranah"
+  ],
+  "Bas-Congo": [
+    "Bandundu",
+    "Uíge",
+    "Bengo",
+    "Ogooué-Lolo",
+    "Plateaux"
+  ],
+  "Sachsen": [
+    "Bayern",
+    "West Pomeranian",
+    "Sachsen-Anhalt",
+    "Greater Poland",
+    "Brandenburg",
+    "Olomoucký",
+    "Hessen",
+    "Žilinský"
+  ],
+  "Jönköping": [
+    "Västra Götaland",
+    "Kronoberg",
+    "Skåne",
+    "Östergötland"
+  ],
+  "West Coast": [
+    "Southland",
+    "Otago",
+    "Canterbury"
+  ],
+  "Huánuco": [
+    "Loreto",
+    "Ucayali",
+    "San Martín",
+    "Lima",
+    "La Libertad"
+  ],
+  "Magdalena": [
+    "Antioquia",
+    "Cesar"
+  ],
+  "Buskerud": [
+    "Hedmark",
+    "Värmland",
+    "Västra Götaland",
+    "Sogn og Fjordane",
+    "Oppland",
+    "Telemark",
+    "Hordaland"
+  ],
+  "Sangha": [
+    "Likouala",
+    "Équateur",
+    "Est",
+    "Mambéré-Kadéï",
+    "Nana-Grébizi",
+    "Ogooué-Ivindo",
+    "Haut-Ogooué",
+    "Wouleu-Ntem"
+  ],
+  "Banskobystrický": [
+    "Pest",
+    "Vysočina",
+    "Borsod-Abaúj-Zemplén",
+    "Steiermark",
+    "Lesser Poland",
+    "Ptuj",
+    "Olomoucký",
+    "Oberösterreich",
+    "Žilinský"
+  ],
+  "Balqa": [
+    "Homs (Hims)",
+    "Al Hudud ash Shamaliyah",
+    "Al-Anbar",
+    "Al Jawf",
+    "An Nabatiyah",
+    "Ma`an"
+  ],
+  "Ostrobothnia": [
+    "Northern Ostrobothnia",
+    "Central Finland",
+    "Southern Ostrobothnia",
+    "Pirkanmaa",
+    "Finland Proper"
+  ],
+  "East Sepik": [
+    "Papua",
+    "Western",
+    "Madang",
+    "Southern Highlands"
+  ],
+  "Panevezio": [
+    "Vitebsk",
+    "Pskov",
+    "Alytaus",
+    "Šiauliai",
+    "Kauno",
+    "Rezeknes"
+  ],
+  "Arbil": [
+    "West Azarbaijan",
+    "Al-Anbar",
+    "Van",
+    "Ninawa",
+    "Diyala"
+  ],
+  "Ibaraki": [
+    "Hiroshima",
+    "Nagano",
+    "Yamagata"
+  ],
+  "Táchira": [
+    "Apure",
+    "Guárico",
+    "Lara",
+    "Anzoátegui",
+    "Zulia"
+  ],
+  "Östergötland": [
+    "Dalarna",
+    "Värmland",
+    "Västra Götaland",
+    "Jönköping",
+    "Västmanland"
+  ],
+  "Shamal Sina'": [
+    "Al Bahr al Ahmar",
+    "Ma`an",
+    "Al Jizah"
+  ],
+  "Alibori": [
+    "Niger",
+    "Tillabéri",
+    "Kara",
+    "Dosso",
+    "Collines",
+    "Zamfara"
+  ],
+  "Ogooué-Ivindo": [
+    "Ngounié",
+    "Sangha",
+    "Ogooué-Lolo",
+    "Haut-Ogooué",
+    "Wouleu-Ntem"
+  ],
+  "White Nile": [
+    "Amhara",
+    "Gedarif",
+    "South Kordufan",
+    "North Kordufan",
+    "Gezira",
+    "Upper Nile",
+    "Benshangul-Gumaz"
+  ],
+  "Muscat": [
+    "Ad Dakhliyah",
+    "Al Dhahira"
+  ],
+  "Manyara": [
+    "Rift Valley",
+    "Morogoro",
+    "Mwanza",
+    "Kagera",
+    "Tanga",
+    "Singida"
+  ],
+  "Central Equatoria": [
+    "Eastern Equatoria",
+    "Western Bahr el Ghazal",
+    "Western Equatoria",
+    "Orientale",
+    "Jonglei",
+    "Unity",
+    "Kibale"
+  ],
+  "Kalimantan Tengah": [
+    "Kalimantan Timur",
+    "Kalimantan Barat"
+  ],
+  "Masvingo": [
+    "Limpopo",
+    "Tete",
+    "Manica",
+    "Gaza",
+    "Midlands",
+    "Matabeleland South",
+    "Mashonaland East"
+  ],
+  "Eastern Darfur": [
+    "Southern Darfur",
+    "Western Bahr el Ghazal",
+    "North Darfur",
+    "South Kordufan",
+    "North Kordufan",
+    "Unity"
+  ],
+  "Djelfa": [
+    "El Oued",
+    "Ouargla",
+    "El Bayadh",
+    "Ghardaïa",
+    "M'Sila",
+    "Tiaret",
+    "Batna"
+  ],
+  "Nangarhar": [
+    "Baluchistan",
+    "Punjab",
+    "K.P.",
+    "Kabul",
+    "Bamyan"
+  ],
+  "Vatovavy-Fitovinany": [
+    "Atsimo-Andrefana",
+    "Anosy",
+    "Ihorombe",
+    "Betsiboka",
+    "Menabe",
+    "Atsinanana"
+  ],
+  "Vakaga": [
+    "Southern Darfur",
+    "Haute-Kotto",
+    "Salamat",
+    "Bamingui-Bangoran",
+    "North Darfur",
+    "Sila",
+    "Wadi Fira"
+  ],
+  "Njombe": [
+    "Mbeya",
+    "Muchinga",
+    "Morogoro",
+    "Ruvuma",
+    "Lilongwe",
+    "Singida"
+  ],
+  "Salamanca": [
+    "Lugo",
+    "Badajoz",
+    "Valladolid",
+    "Aveiro"
+  ],
+  "Tamil Nadu": [
+    "Andhra Pradesh",
+    "Karnataka"
+  ],
+  "Lop Buri": [
+    "Nakhon Si Thammarat",
+    "Kanchanaburi",
+    "Khon Kaen",
+    "Pathum Thani"
+  ],
+  "Yamagata": [
+    "Nagano",
+    "Akita",
+    "Ibaraki"
+  ],
+  "Bizkaia": [
+    "Toledo",
+    "Zaragoza",
+    "Ciudad Real",
+    "Gironde",
+    "Valencia",
+    "Valladolid"
+  ],
+  "Le Kef": [
+    "Gafsa",
+    "M'Sila",
+    "Bouira",
+    "Batna",
+    "Gabès"
+  ],
+  "Bamyan": [
+    "Baluchistan",
+    "Kandahar",
+    "Hilmand",
+    "Parwan",
+    "Balkh",
+    "Kabul",
+    "Nangarhar",
+    "Ghor"
+  ],
+  "Perak": [
+    "Nakhon Si Thammarat",
+    "Pahang"
+  ],
+  "Al Jizah": [
+    "Al Bahr al Ahmar",
+    "Matruh",
+    "Al Wadi at Jadid",
+    "Al Minya",
+    "Shamal Sina'"
+  ],
+  "Olomoucký": [
+    "Bayern",
+    "Vysočina",
+    "Sachsen",
+    "Banskobystrický",
+    "Oberösterreich",
+    "Žilinský"
+  ],
+  "Mazandaran": [
+    "Ahal",
+    "Balkan",
+    "Razavi Khorasan",
+    "Semnan",
+    "Qazvin",
+    "Tehran"
+  ],
+  "Hessen": [
+    "Bayern",
+    "Nordrhein-Westfalen",
+    "Baden-Württemberg",
+    "Sachsen-Anhalt",
+    "Niedersachsen",
+    "Sachsen",
+    "Luxembourg"
+  ],
+  "KwaZulu-Natal": [
+    "Free State",
+    "Eastern Cape",
+    "Maputo",
+    "Mpumalanga"
+  ],
+  "Mures": [
+    "Vrancea",
+    "Arad",
+    "Botosani",
+    "Silistra",
+    "Teleorman",
+    "Chernivtsi",
+    "Dolj"
+  ],
+  "Ninawa": [
+    "Homs (Hims)",
+    "Al-Anbar",
+    "Van",
+    "Hasaka (Al Haksa)",
+    "Ar Raqqah",
+    "Arbil"
+  ],
+  "Kauno": [
+    "Warmian-Masurian",
+    "Pomeranian",
+    "Alytaus",
+    "Saldus",
+    "Šiauliai",
+    "Panevezio"
+  ],
+  "Denizli": [
+    "Konya",
+    "Mersin",
+    "Kütahya",
+    "Afyonkarahisar"
+  ],
+  "Gaoual": [
+    "Kayes",
+    "Quinara",
+    "Ziguinchor",
+    "Northern",
+    "Faranah",
+    "Central River",
+    "Beyla"
+  ],
+  "Bozen": [
+    "Bayern",
+    "Piacenza",
+    "Kärnten",
+    "Mantova",
+    "Haute-Savoie"
+  ],
+  "Mandalay": [
+    "Sagaing",
+    "Shan",
+    "Kayin",
+    "Kanchanaburi",
+    "Magway"
+  ],
+  "Giresun": [
+    "Agri",
+    "Malatya",
+    "Samsun",
+    "Bingöl",
+    "Samtskhe-Javakheti",
+    "Kakheti",
+    "Sivas"
+  ],
+  "Ogooué-Lolo": [
+    "Ngounié",
+    "Bas-Congo",
+    "Ogooué-Ivindo",
+    "Haut-Ogooué",
+    "Plateaux"
+  ],
+  "Orne": [
+    "Loire-Atlantique",
+    "Côtes-d'Armor",
+    "Creuse",
+    "Gironde",
+    "Paris"
+  ],
+  "Al-Basrah": [
+    "Al-Muthannia",
+    "Khuzestan",
+    "Ash Sharqiyah",
+    "Ilam",
+    "An-Najaf"
+  ],
+  "Worodougou": [
+    "Sikasso",
+    "Komoé",
+    "Haut-Sassandra",
+    "Zanzan",
+    "Marahoué",
+    "Beyla"
+  ],
+  "Jambi": [
+    "Riau",
+    "Sumatera Selatan",
+    "Sumatera Utara",
+    "Lampung"
+  ],
+  "Tehran": [
+    "Semnan",
+    "Esfahan",
+    "Zanjan",
+    "Qazvin",
+    "Lorestan",
+    "Mazandaran"
+  ],
+  "Marahoué": [
+    "Western",
+    "Haut-Sassandra",
+    "Zanzan",
+    "Brong Ahafo",
+    "Worodougou"
+  ],
+  "Retalhuleu": [
+    "Chiapas",
+    "Atlántida",
+    "Francisco Morazán",
+    "Petén"
+  ],
+  "Zamfara": [
+    "Niger",
+    "Tahoua",
+    "Zinder",
+    "Agadez",
+    "Dosso",
+    "Alibori",
+    "Jigawa"
+  ],
+  "Ghor": [
+    "Chardzhou",
+    "Hirat",
+    "Farah",
+    "Hilmand",
+    "Faryab",
+    "Balkh",
+    "Bamyan"
+  ],
+  "Jinotega": [
+    "Francisco Morazán",
+    "Atlántico Norte",
+    "Chiriquí",
+    "Olancho"
+  ],
+  "Dolj": [
+    "Arad",
+    "Teleorman",
+    "Timis",
+    "Nišavski",
+    "Mures"
+  ],
+  "Central River": [
+    "Kayes",
+    "Ziguinchor",
+    "Gaoual",
+    "Matam"
+  ],
+  "Tarija": [
+    "Potosí",
+    "Salta",
+    "Jujuy",
+    "Boquerón",
+    "Chuquisaca"
+  ],
+  "Kastamonu": [
+    "Konya",
+    "Kayseri",
+    "Samsun",
+    "Kirsehir",
+    "Mersin",
+    "Istanbul",
+    "Sivas"
+  ],
+  "Kütahya": [
+    "Tekirdag",
+    "Istanbul",
+    "Denizli",
+    "Afyonkarahisar"
+  ],
+  "Anatoliki Makedonia kai Thraki": [
+    "Tekirdag",
+    "Teleorman",
+    "Nišavski",
+    "Thessalia",
+    "Prilep"
+  ],
+  "Shabwah": [
+    "Hadramawt",
+    "Jizan",
+    "Al Jawf"
+  ],
+  "Omusati": [
+    "Cuando Cubango",
+    "Kunene",
+    "Cunene",
+    "Otjozondjupa",
+    "Kavango"
+  ],
+  "Singida": [
+    "Mbeya",
+    "Morogoro",
+    "Tabora",
+    "Mwanza",
+    "Manyara",
+    "Njombe",
+    "Kigoma"
+  ],
+  "Olancho": [
+    "Atlántida",
+    "Francisco Morazán",
+    "Atlántico Norte",
+    "Jinotega"
+  ],
+  "Ouham": [
+    "Salamat",
+    "Bamingui-Bangoran",
+    "Guéra",
+    "Ouham-Pendé",
+    "Nana-Grébizi",
+    "Mayo-Kebbi Ouest",
+    "Chari-Baguirmi"
+  ],
+  "Erongo": [
+    "Kunene",
+    "Hardap",
+    "Otjozondjupa",
+    "Omaheke"
+  ],
+  "Bukidnon": [],
+  "Karachay-Cherkess": [
+    "Stavropol'",
+    "Krasnodar",
+    "Samtskhe-Javakheti",
+    "Mtskheta-Mtianeti",
+    "Kakheti"
+  ],
+  "L'viv": [
+    "Volyn",
+    "Rivne",
+    "Lublin",
+    "Silesian",
+    "Borsod-Abaúj-Zemplén",
+    "Chernivtsi",
+    "Khmel'nyts'kyy",
+    "Lesser Poland"
+  ],
+  "Tadzhikistan Territories": [
+    "Gorno-Badakhshan",
+    "Ferghana",
+    "Khatlon",
+    "Tashkent",
+    "Jizzakh",
+    "Jalal-Abad"
+  ],
+  "Manipur": [
+    "Arunachal Pradesh",
+    "Assam",
+    "Sagaing",
+    "Sylhet",
+    "Rakhine",
+    "Magway"
+  ],
+  "Afyonkarahisar": [
+    "Konya",
+    "Kirsehir",
+    "Istanbul",
+    "Denizli",
+    "Kütahya"
+  ],
+  "Anzoátegui": [
+    "Bolívar",
+    "Guárico",
+    "Lara",
+    "Monagas",
+    "Táchira"
+  ],
+  "Tataouine": [
+    "Ghadamis",
+    "El Oued",
+    "Ouargla",
+    "Misratah",
+    "Mizdah",
+    "Gabès"
+  ],
+  "Quintana Roo": [
+    "Campeche",
+    "Atlántida"
+  ],
+  "Oberösterreich": [
+    "Bayern",
+    "Kärnten",
+    "Vysočina",
+    "Steiermark",
+    "Banskobystrický",
+    "Olomoucký"
+  ],
+  "Mascara": [
+    "Béchar",
+    "El Bayadh",
+    "Oriental",
+    "Bouira",
+    "Tiaret"
+  ],
+  "Kigoma": [
+    "Sud-Kivu",
+    "Katanga",
+    "Tabora",
+    "Mwanza",
+    "Gitega",
+    "Kagera",
+    "Singida",
+    "Rukwa"
+  ],
+  "Preah Vihéar": [
+    "An Giang",
+    "Champasak",
+    "Môndól Kiri",
+    "Bântéay Méanchey",
+    "Pathum Thani"
+  ],
+  "Valencia": [
+    "Ariège",
+    "Zaragoza",
+    "Ciudad Real",
+    "Albacete",
+    "Bizkaia"
+  ],
+  "Chaouia - Ouardigha": [
+    "Meknès - Tafilalet",
+    "Marrakech - Tensift - Al Haouz",
+    "Taza - Al Hoceima - Taounate"
+  ],
+  "Lisboa": [
+    "Jaén",
+    "Ciudad Real",
+    "Badajoz",
+    "Aveiro"
+  ],
+  "Rezeknes": [
+    "Vitebsk",
+    "Pskov",
+    "Võru",
+    "Šiauliai",
+    "Jõgeva",
+    "Panevezio"
+  ],
+  "Galguduud": [
+    "Somali",
+    "Bay",
+    "Hiiraan",
+    "Mudug"
+  ],
+  "Valladolid": [
+    "Toledo",
+    "Lugo",
+    "Badajoz",
+    "Salamanca",
+    "Bizkaia"
+  ],
+  "Diyala": [
+    "West Azarbaijan",
+    "Al-Anbar",
+    "Ilam",
+    "An-Najaf",
+    "Zanjan",
+    "Lorestan",
+    "Arbil"
+  ],
+  "Haut-Ogooué": [
+    "Likouala",
+    "Équateur",
+    "Sangha",
+    "Ogooué-Ivindo",
+    "Ogooué-Lolo",
+    "Plateaux"
+  ],
+  "Udon Thani": [
+    "Champasak",
+    "Khammouan",
+    "Bântéay Méanchey",
+    "Khon Kaen"
+  ],
+  "Paris": [
+    "Marne",
+    "Allier",
+    "Creuse",
+    "Doubs",
+    "Orne",
+    "Meuse"
+  ],
+  "Bolivar": [
+    "Loreto",
+    "Piura",
+    "Orellana",
+    "Guayas",
+    "La Libertad",
+    "Amazonas"
+  ],
+  "Meuse": [
+    "Marne",
+    "Paris",
+    "Luxembourg",
+    "Belgique"
+  ],
+  "Junín": [
+    "Ucayali",
+    "Arequipa",
+    "Cusco",
+    "Ayacucho",
+    "Lima"
+  ],
+  "Zulia": [
+    "Apure",
+    "Antioquia",
+    "Meta",
+    "Casanare",
+    "Lara",
+    "Cesar",
+    "Cundinamarca",
+    "Táchira"
+  ],
+  "Menabe": [
+    "Atsimo-Andrefana",
+    "Betsiboka",
+    "Melaky",
+    "Vatovavy-Fitovinany"
+  ],
+  "Raški": [
+    "Zapadno-Backi",
+    "Pest",
+    "Timis",
+    "Nišavski",
+    "Trebinje",
+    "Prilep"
+  ],
+  "Atsinanana": [
+    "Sofia",
+    "Betsiboka",
+    "Vatovavy-Fitovinany"
+  ],
+  "Jigawa": [
+    "Niger",
+    "Zinder",
+    "Nassarawa",
+    "Zamfara",
+    "Bauchi"
+  ],
+  "East Ayrshire": [
+    "Highland",
+    "Northumberland",
+    "Aberdeenshire",
+    "Cumbria"
+  ],
+  "San Pedro": [
+    "Formosa",
+    "Presidente Hayes",
+    "Chaco",
+    "Corrientes",
+    "Mato Grosso do Sul",
+    "Alto Paraguay",
+    "Canindeyú",
+    "Misiones"
+  ],
+  "Sivas": [
+    "Kayseri",
+    "Malatya",
+    "Samsun",
+    "Bingöl",
+    "Sanliurfa",
+    "Ar Raqqah",
+    "Giresun",
+    "Kastamonu"
+  ],
+  "Plateaux": [
+    "Équateur",
+    "Bandundu",
+    "Bas-Congo",
+    "Ogooué-Lolo",
+    "Haut-Ogooué"
+  ],
+  "Vermont": [
+    "New York",
+    "Québec",
+    "Maine",
+    "Massachusetts"
+  ],
+  "Benshangul-Gumaz": [
+    "Amhara",
+    "Oromiya",
+    "Upper Nile",
+    "White Nile"
+  ],
+  "Jubbada Hoose": [
+    "North-Eastern",
+    "Coast",
+    "Somali",
+    "Bay",
+    "Hiiraan"
+  ],
+  "Beyla": [
+    "Kayes",
+    "Sikasso",
+    "Koulikoro",
+    "Haut-Sassandra",
+    "Faranah",
+    "Gaoual",
+    "Worodougou"
+  ],
+  "Matam": [
+    "Kayes",
+    "Trarza",
+    "Assaba",
+    "Central River"
+  ],
+  "Bam": [
+    "Timbuktu",
+    "Gao",
+    "Mopti",
+    "Tillabéri",
+    "Boulgou",
+    "Sissili",
+    "Kara"
+  ],
+  "Semenawi Keyih Bahri": [
+    "Somaliland",
+    "Afar",
+    "Red Sea",
+    "Kassala",
+    "Somali",
+    "Tigray"
+  ],
+  "Coquimbo": [
+    "Atacama",
+    "San Juan",
+    "Mendoza",
+    "Maule"
+  ],
+  "Hebei": [
+    "Inner Mongol",
+    "Liaoning",
+    "Shandong",
+    "Shanxi",
+    "Henan"
+  ],
+  "Mangochi": [
+    "Tete",
+    "Zambezia",
+    "Niassa",
+    "Lilongwe"
+  ],
+  "Tacna": [
+    "La Paz",
+    "Oruro",
+    "Potosí",
+    "Antofagasta",
+    "Puno",
+    "Arequipa"
+  ],
+  "Lumbini": [
+    "Xizang",
+    "West Bengal",
+    "Bihar",
+    "Uttar Pradesh",
+    "Mongar",
+    "Bheri"
+  ],
+  "Pathum Thani": [
+    "Uttaradit",
+    "Louang Namtha",
+    "Kanchanaburi",
+    "Bântéay Méanchey",
+    "Khon Kaen",
+    "Lop Buri",
+    "Preah Vihéar"
+  ],
+  "Tacuarembó": [
+    "Entre Ríos",
+    "Lavalleja",
+    "Salto"
+  ],
+  "Kuyavian-Pomeranian": [
+    "Warmian-Masurian",
+    "Pomeranian",
+    "Masovian",
+    "Greater Poland",
+    "Silesian",
+    "Žilinský"
+  ],
+  "Wouleu-Ntem": [
+    "Est",
+    "Centre",
+    "Sud-Ouest",
+    "Sangha",
+    "Ogooué-Ivindo"
+  ],
+  "Magway": [
+    "Sagaing",
+    "Rakhine",
+    "Mandalay",
+    "Manipur"
+  ],
+  "Luxembourg": [
+    "Nordrhein-Westfalen",
+    "Baden-Württemberg",
+    "Marne",
+    "Hessen",
+    "Meuse",
+    "Haute-Savoie",
+    "Belgique"
+  ],
+  "Aveyron": [
+    "Loire",
+    "Ariège",
+    "Zaragoza",
+    "Gard",
+    "Gironde"
+  ],
+  "Jizzakh": [
+    "South Kazakhstan",
+    "Chardzhou",
+    "Navoi",
+    "Bukhoro",
+    "Khatlon",
+    "Tashkent",
+    "Tadzhikistan Territories"
+  ],
+  "Jawa Timur": [],
+  "Lào Cai": [
+    "Yunnan",
+    "Guangxi",
+    "Ha Noi",
+    "Louang Namtha",
+    "Khammouan",
+    "Louangphrabang"
+  ],
+  "Kibale": [
+    "Eastern Equatoria",
+    "Orientale",
+    "Nord-Kivu",
+    "Kalangala",
+    "Gitega",
+    "Central Equatoria",
+    "Western"
+  ],
+  "Xocavənd": [
+    "Dagestan",
+    "West Azarbaijan",
+    "East Azarbaijan",
+    "Agri",
+    "Hajigabul",
+    "Qazvin",
+    "Kakheti"
+  ],
+  "Isère": [
+    "Loire",
+    "Savona",
+    "Gard",
+    "Doubs",
+    "Haute-Savoie"
+  ],
+  "Bauchi": [
+    "Borno",
+    "Taraba",
+    "Diffa",
+    "Zinder",
+    "Adamawa",
+    "Nassarawa",
+    "Jigawa"
+  ],
+  "Haute-Savoie": [
+    "Bayern",
+    "Baden-Württemberg",
+    "Piacenza",
+    "Marne",
+    "Savona",
+    "Doubs",
+    "Bozen",
+    "Luxembourg",
+    "Isère"
+  ],
+  "P'yŏngan-namdo": [
+    "Jilin",
+    "Liaoning",
+    "Gangwon",
+    "Hamgyŏng-namdo"
+  ],
+  "Rukwa": [
+    "Mbeya",
+    "Katanga",
+    "Northern",
+    "Tabora",
+    "Kigoma"
+  ],
+  "Upper Takutu-Upper Essequibo": [
+    "Roraima",
+    "Bolívar",
+    "Mahaica-Berbice",
+    "Monagas"
+  ],
+  "Buckinghamshire": [
+    "Hertfordshire",
+    "Wrexham",
+    "Worcestershire"
+  ],
+  "Aveiro": [
+    "Lugo",
+    "Badajoz",
+    "Salamanca",
+    "Lisboa"
+  ],
+  "Västmanland": [
+    "Dalarna",
+    "Gävleborg",
+    "Östergötland"
+  ],
+  "Wadi Fira": [
+    "Ennedi",
+    "Borkou",
+    "North Darfur",
+    "Batha",
+    "Sila",
+    "Vakaga"
+  ],
+  "Kirovohrad": [
+    "Odessa",
+    "Vinnytsya",
+    "Mykolayiv",
+    "Poltava",
+    "Dnipropetrovs'k",
+    "Kiev"
+  ],
+  "Žilinský": [
+    "Greater Poland",
+    "Silesian",
+    "Lesser Poland",
+    "Sachsen",
+    "Banskobystrický",
+    "Olomoucký",
+    "Kuyavian-Pomeranian"
+  ],
+  "Belgique": [
+    "Nordrhein-Westfalen",
+    "Pays-Bas",
+    "Meuse",
+    "Luxembourg"
+  ],
+  "Jalal-Abad": [
+    "Xinjiang",
+    "Naryn",
+    "Gorno-Badakhshan",
+    "Ferghana",
+    "Tashkent",
+    "Tadzhikistan Territories"
+  ]
+}
